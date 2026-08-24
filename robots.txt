@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://etile-mosaic.com/sitemap.xml
