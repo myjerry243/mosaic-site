@@ -6,3 +6,7 @@ code_plan.json
 code_final_map.json
 product_codes_*.json
 vision_results_*.json
+
+# Local helper scripts
+*.py
+*.pyc
