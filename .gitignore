@@ -1,19 +1,8 @@
-# 中间/备份文件 - 不上传 GitHub Pages
-_frames/
-images_backup_wm/
-watermark_report.txt
-watermark_list.txt
-watermark_residual.txt
-watermark_still.txt
-watermark_clean_done.txt
-
-# 生成脚本 (内部工具)
-_generate.py
-_preprocess.py
-*.py
-*.pyc
-
-# 系统
-Thumbs.db
-Desktop.ini
-.DS_Store
+# Local helper / backup artifacts (not part of the website)
+backup_html/
+*.jsonl
+*.log
+code_plan.json
+code_final_map.json
+product_codes_*.json
+vision_results_*.json
