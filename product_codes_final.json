@@ -1,0 +1,502 @@
+{
+ "crystal-4mm/c4_7016.jpg": {
+  "code": "7016",
+  "source": "filename"
+ },
+ "crystal-4mm/c4_FF023.jpg": {
+  "code": "FF023",
+  "source": "filename"
+ },
+ "crystal-4mm/c4_FF024.jpg": {
+  "code": "FF024",
+  "source": "filename"
+ },
+ "crystal-4mm/c4_FF025.jpg": {
+  "code": "FF025",
+  "source": "filename"
+ },
+ "crystal-4mm/c4_FF026.jpg": {
+  "code": "FF026",
+  "source": "filename"
+ },
+ "crystal-4mm/c4_FF027.jpg": {
+  "code": "FF027",
+  "source": "filename"
+ },
+ "crystal-4mm/c4_FF7001.jpg": {
+  "code": "FF7001",
+  "source": "filename"
+ },
+ "crystal-4mm/c4_FF7002.jpg": {
+  "code": "FF7002",
+  "source": "filename"
+ },
+ "crystal-4mm/c4_FF7003.jpg": {
+  "code": "FF7003",
+  "source": "filename"
+ },
+ "crystal-4mm/c4_FF7004.jpg": {
+  "code": "FF7004",
+  "source": "filename"
+ },
+ "crystal-4mm/c4_FF7005.jpg": {
+  "code": "FF7005",
+  "source": "filename"
+ },
+ "crystal-4mm/c4_FF7006.jpg": {
+  "code": "FF7006",
+  "source": "filename"
+ },
+ "crystal-4mm/c4_FF7007.jpg": {
+  "code": "FF7007",
+  "source": "filename"
+ },
+ "crystal-4mm/c4_FF7008.jpg": {
+  "code": "FF7008",
+  "source": "filename"
+ },
+ "crystal-4mm/c4_FF7009.jpg": {
+  "code": "FF7009",
+  "source": "filename"
+ },
+ "crystal-4mm/c4_FF7010.jpg": {
+  "code": "FF7010",
+  "source": "filename"
+ },
+ "crystal-4mm/c4_FF7011.jpg": {
+  "code": "FF7011",
+  "source": "filename"
+ },
+ "crystal-4mm/c4_FF7012.jpg": {
+  "code": "FF7012",
+  "source": "filename"
+ },
+ "crystal-4mm/c4_FF7013.jpg": {
+  "code": "FF7013",
+  "source": "filename"
+ },
+ "crystal-4mm/c4_FF7014.jpg": {
+  "code": "FF7014",
+  "source": "filename"
+ },
+ "crystal-4mm/c4_FF7015.jpg": {
+  "code": "FF7015",
+  "source": "filename"
+ },
+ "crystal-4mm/c4_FF7017.jpg": {
+  "code": "FF7017",
+  "source": "filename"
+ },
+ "crystal-4mm/c4_FF7018.jpg": {
+  "code": "FF7018",
+  "source": "filename"
+ },
+ "crystal-4mm/c4_FF7019.jpg": {
+  "code": "FF7019",
+  "source": "filename"
+ },
+ "crystal-4mm/c4_FF7020.jpg": {
+  "code": "FF7020",
+  "source": "filename"
+ },
+ "crystal-4mm/c4_FF7021.jpg": {
+  "code": "FF7021",
+  "source": "filename"
+ },
+ "crystal-4mm/c4_FF7022.jpg": {
+  "code": "FF7022",
+  "source": "filename"
+ },
+ "crystal-4mm/c4_FF7027.jpg": {
+  "code": "FF7027",
+  "source": "filename"
+ },
+ "crystal-4mm/c4_FF7029.jpg": {
+  "code": "FF7029",
+  "source": "filename"
+ },
+ "crystal-4mm/c4_FF7030.jpg": {
+  "code": "FF7030",
+  "source": "filename"
+ },
+ "crystal-4mm/c4_FF7031.jpg": {
+  "code": "FF7031",
+  "source": "filename"
+ },
+ "crystal-4mm/c4_FF7032.jpg": {
+  "code": "FF7032",
+  "source": "filename"
+ },
+ "ceramic/ceramic_02.jpg": {
+  "code": "1908",
+  "source": "ocr"
+ },
+ "ceramic/ceramic_04.jpg": {
+  "code": "7711",
+  "source": "ocr"
+ },
+ "ceramic/ceramic_10.jpg": {
+  "code": "507",
+  "source": "ocr"
+ },
+ "ceramic/ceramic_11.jpg": {
+  "code": "1308",
+  "source": "ocr"
+ },
+ "ceramic/ceramic_13.jpg": {
+  "code": "2048",
+  "source": "ocr"
+ },
+ "ceramic/ceramic_14.jpg": {
+  "code": "F64805",
+  "source": "ocr"
+ },
+ "ceramic/ceramic_15.jpg": {
+  "code": "01045",
+  "source": "ocr"
+ },
+ "ceramic/ceramic_16.jpg": {
+  "code": "25000",
+  "source": "ocr"
+ },
+ "ceramic/ceramic_19.jpg": {
+  "code": "480975",
+  "source": "ocr"
+ },
+ "ceramic/ceramic_22.jpg": {
+  "code": "5802",
+  "source": "ocr"
+ },
+ "ceramic/ceramic_25.jpg": {
+  "code": "5203",
+  "source": "ocr"
+ },
+ "ceramic/ceramic_27.jpg": {
+  "code": "985001",
+  "source": "ocr"
+ },
+ "ceramic/ceramic_30.jpg": {
+  "code": "8901",
+  "source": "ocr"
+ },
+ "ceramic/ceramic_35.jpg": {
+  "code": "59591",
+  "source": "ocr"
+ },
+ "ceramic/ceramic_36.jpg": {
+  "code": "58520",
+  "source": "ocr"
+ },
+ "ceramic/ceramic_39.jpg": {
+  "code": "117507",
+  "source": "ocr"
+ },
+ "ceramic/ceramic_40.jpg": {
+  "code": "117504",
+  "source": "ocr"
+ },
+ "ceramic/ceramic_41.jpg": {
+  "code": "9070",
+  "source": "ocr"
+ },
+ "ceramic/ceramic_42.jpg": {
+  "code": "010",
+  "source": "ocr"
+ },
+ "crystal-6mm/c6_6厘幻彩_03_hi.jpg": {
+  "code": "T2004",
+  "source": "ocr"
+ },
+ "crystal-6mm/c6_6厘幻彩_15.jpg": {
+  "code": "296",
+  "source": "ocr"
+ },
+ "crystal-6mm/c6_6厘幻彩_20.jpg": {
+  "code": "2021",
+  "source": "ocr"
+ },
+ "crystal-6mm/c6_6厘幻彩_29.jpg": {
+  "code": "TF230",
+  "source": "ocr"
+ },
+ "crystal-6mm/c6_6厘幻彩_31.jpg": {
+  "code": "5232",
+  "source": "ocr"
+ },
+ "crystal-6mm/c6_6厘幻彩_32.jpg": {
+  "code": "12033",
+  "source": "ocr"
+ },
+ "crystal-6mm/c6_6厘幻彩_36.jpg": {
+  "code": "TE2037",
+  "source": "ocr"
+ },
+ "crystal-6mm/c6_6厘幻彩_36_hi.jpg": {
+  "code": "T203",
+  "source": "ocr"
+ },
+ "crystal-pool/crystal_pool_a_04.jpg": {
+  "code": "MD5201",
+  "source": "ocr"
+ },
+ "crystal-pool/crystal_pool_a_06.jpg": {
+  "code": "T6308",
+  "source": "ocr"
+ },
+ "crystal-pool/crystal_pool_a_09.jpg": {
+  "code": "JH039",
+  "source": "ocr"
+ },
+ "crystal-pool/crystal_pool_a_10.jpg": {
+  "code": "JH004",
+  "source": "ocr"
+ },
+ "crystal-pool/crystal_pool_b_08.jpg": {
+  "code": "T6305",
+  "source": "ocr"
+ },
+ "glass/glass_cloud_02.jpg": {
+  "code": "FC003",
+  "source": "ocr"
+ },
+ "glass/glass_cloud_04.jpg": {
+  "code": "FC005",
+  "source": "ocr"
+ },
+ "glass/glass_cloud_12.jpg": {
+  "code": "FC013",
+  "source": "ocr"
+ },
+ "glass/glass_diamond_02.jpg": {
+  "code": "101001",
+  "source": "ocr"
+ },
+ "glass/glass_diamond_03.jpg": {
+  "code": "101002",
+  "source": "ocr"
+ },
+ "glass/glass_diamond_04.jpg": {
+  "code": "101003",
+  "source": "ocr"
+ },
+ "glass/glass_diamond_05.jpg": {
+  "code": "101004",
+  "source": "ocr"
+ },
+ "glass/glass_diamond_06.jpg": {
+  "code": "101005",
+  "source": "ocr"
+ },
+ "glass/glass_diamond_08.jpg": {
+  "code": "101007",
+  "source": "ocr"
+ },
+ "glass/glass_diamond_09.jpg": {
+  "code": "101008",
+  "source": "ocr"
+ },
+ "glass/glass_diamond_10.jpg": {
+  "code": "101009",
+  "source": "ocr"
+ },
+ "glass/glass_diamond_11.jpg": {
+  "code": "101010",
+  "source": "ocr"
+ },
+ "glass/glass_diamond_12.jpg": {
+  "code": "101012",
+  "source": "ocr"
+ },
+ "glass/glass_diamond_13.jpg": {
+  "code": "101013",
+  "source": "ocr"
+ },
+ "glass/glass_goldline_01.jpg": {
+  "code": "FE081",
+  "source": "ocr"
+ },
+ "glass/glass_goldline_12.jpg": {
+  "code": "E304",
+  "source": "ocr"
+ },
+ "glass/glass_hexagon_02.jpg": {
+  "code": "HE404",
+  "source": "ocr"
+ },
+ "glass/glass_hexagon_03.jpg": {
+  "code": "HE517",
+  "source": "ocr"
+ },
+ "glass/glass_hexagon_04.jpg": {
+  "code": "HE404",
+  "source": "ocr"
+ },
+ "glass/glass_hexagon_05.jpg": {
+  "code": "HE307",
+  "source": "ocr"
+ },
+ "glass/glass_hexagon_09.jpg": {
+  "code": "HE518",
+  "source": "ocr"
+ },
+ "glass/glass_hexagon_10.jpg": {
+  "code": "HE522",
+  "source": "ocr"
+ },
+ "glass/glass_hexagon_11.jpg": {
+  "code": "HE106",
+  "source": "ocr"
+ },
+ "glass/glass_hexagon_12.jpg": {
+  "code": "HE205",
+  "source": "ocr"
+ },
+ "glass/glass_hexagon_13.jpg": {
+  "code": "HE101",
+  "source": "ocr"
+ },
+ "glass/glass_hexagon_14.jpg": {
+  "code": "HE101",
+  "source": "ocr"
+ },
+ "glass/glass_hotmelt_nosand_03.jpg": {
+  "code": "R001",
+  "source": "ocr"
+ },
+ "glass/glass_hotmelt_nosand_08.jpg": {
+  "code": "R006",
+  "source": "ocr"
+ },
+ "glass/glass_hotmelt_nosand_11.jpg": {
+  "code": "F009",
+  "source": "ocr"
+ },
+ "glass/glass_hotmelt_sand_02.jpg": {
+  "code": "A085",
+  "source": "ocr"
+ },
+ "glass/glass_hotmelt_sand_03.jpg": {
+  "code": "A205",
+  "source": "ocr"
+ },
+ "glass/glass_hotmelt_sand_05.jpg": {
+  "code": "A525",
+  "source": "ocr"
+ },
+ "glass/glass_hotmelt_sand_06.jpg": {
+  "code": "A535",
+  "source": "ocr"
+ },
+ "glass/glass_hotmelt_sand_07.jpg": {
+  "code": "8308",
+  "source": "ocr"
+ },
+ "glass/glass_hotmelt_sand_10.jpg": {
+  "code": "C645",
+  "source": "ocr"
+ },
+ "glass/glass_hotmelt_sand_11.jpg": {
+  "code": "5001",
+  "source": "ocr"
+ },
+ "glass/glass_hotmelt_sand_12.jpg": {
+  "code": "5002",
+  "source": "ocr"
+ },
+ "glass/glass_hotmelt_sand_13.jpg": {
+  "code": "5003",
+  "source": "ocr"
+ },
+ "glass/glass_hotmelt_sand_14.jpg": {
+  "code": "5004",
+  "source": "ocr"
+ },
+ "glass/glass_iceflower_09.jpg": {
+  "code": "N045",
+  "source": "ocr"
+ },
+ "glass/glass_iceflower_11.jpg": {
+  "code": "NF111",
+  "source": "ocr"
+ },
+ "glass/glass_iceflower_12.jpg": {
+  "code": "NF355",
+  "source": "ocr"
+ },
+ "glass/glass_icejade_02.jpg": {
+  "code": "HJ1507",
+  "source": "ocr"
+ },
+ "glass/glass_icejade_03.jpg": {
+  "code": "HJ1517",
+  "source": "ocr"
+ },
+ "glass/glass_icejade_04.jpg": {
+  "code": "HJ1501",
+  "source": "ocr"
+ },
+ "glass/glass_icejade_05.jpg": {
+  "code": "HJ1007",
+  "source": "ocr"
+ },
+ "glass/glass_nosand_rainbow_01.jpg": {
+  "code": "CH001",
+  "source": "ocr"
+ },
+ "glass/glass_nosand_rainbow_02.jpg": {
+  "code": "CH002",
+  "source": "ocr"
+ },
+ "glass/glass_nosand_rainbow_03.jpg": {
+  "code": "CH003",
+  "source": "ocr"
+ },
+ "glass/glass_nosand_rainbow_04.jpg": {
+  "code": "CH004",
+  "source": "ocr"
+ },
+ "glass/glass_nosand_rainbow_05.jpg": {
+  "code": "CH005",
+  "source": "ocr"
+ },
+ "glass/glass_nosand_rainbow_06.jpg": {
+  "code": "CH006",
+  "source": "ocr"
+ },
+ "glass/glass_nosand_rainbow_07.jpg": {
+  "code": "CH007",
+  "source": "ocr"
+ },
+ "glass/glass_nosand_rainbow_08.jpg": {
+  "code": "CH008",
+  "source": "ocr"
+ },
+ "glass/glass_nosand_rainbow_10.jpg": {
+  "code": "CH010",
+  "source": "ocr"
+ },
+ "glass/glass_nosand_rainbow_11.jpg": {
+  "code": "CH011",
+  "source": "ocr"
+ },
+ "glass/glass_nosand_rainbow_12.jpg": {
+  "code": "CH012",
+  "source": "ocr"
+ },
+ "glass/glass_nosand_rainbow_13.jpg": {
+  "code": "CH013",
+  "source": "ocr"
+ },
+ "glass/glass_shimmer_02.jpg": {
+  "code": "F130",
+  "source": "ocr"
+ },
+ "glass/glass_shimmer_03.jpg": {
+  "code": "F730",
+  "source": "ocr"
+ },
+ "glass/glass_shimmer_13.jpg": {
+  "code": "FE078",
+  "source": "ocr"
+ }
+}

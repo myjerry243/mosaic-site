@@ -1,0 +1,12 @@
+C:\Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\torch\ao\nn\quantized\dynamic\modules\rnn.py:162: UserWarning: torch.quantize_per_tensor, torch.quantize_per_channel and other quantized tensor creation functions that produce tensors with dtype torch.quint8, torch.qint8, and torch.qint32 are deprecated and will be removed in a future PyTorch release. Please see https://github.com/pytorch/pytorch/issues/184982 for more information. (Triggered internally at C:\actions-runner\_work\pytorch\pytorch\aten\src\ATen\quantized\Quantizer.cpp:116.)
+  w_ih = torch.quantize_per_tensor(
+备份图总数: 235
+已完成: 135，续扫
+C:\Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\torch\utils\data\dataloader.py:759: UserWarning: 'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used.
+  super().__init__(loader)
+进度 140/235 | {'done': 140, 'with_code': 0, 'no_code': 5, 'fail': 0}
+进度 160/235 | {'done': 160, 'with_code': 7, 'no_code': 18, 'fail': 0}
+进度 180/235 | {'done': 180, 'with_code': 22, 'no_code': 23, 'fail': 0}
+进度 200/235 | {'done': 200, 'with_code': 36, 'no_code': 29, 'fail': 0}
+进度 220/235 | {'done': 220, 'with_code': 45, 'no_code': 40, 'fail': 0}
+完成: {'done': 235, 'with_code': 45, 'no_code': 55, 'fail': 0}

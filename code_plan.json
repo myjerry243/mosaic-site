@@ -1,0 +1,709 @@
+{
+ "confirmed": {
+  "images/crystal-4mm/c4_7016.jpg": {
+   "code": "7016",
+   "source": "filename"
+  },
+  "images/crystal-4mm/c4_FF023.jpg": {
+   "code": "FF023",
+   "source": "filename"
+  },
+  "images/crystal-4mm/c4_FF024.jpg": {
+   "code": "FF024",
+   "source": "filename"
+  },
+  "images/crystal-4mm/c4_FF025.jpg": {
+   "code": "FF025",
+   "source": "filename"
+  },
+  "images/crystal-4mm/c4_FF026.jpg": {
+   "code": "FF026",
+   "source": "filename"
+  },
+  "images/crystal-4mm/c4_FF027.jpg": {
+   "code": "FF027",
+   "source": "filename"
+  },
+  "images/crystal-4mm/c4_FF7001.jpg": {
+   "code": "FF7001",
+   "source": "filename"
+  },
+  "images/crystal-4mm/c4_FF7002.jpg": {
+   "code": "FF7002",
+   "source": "filename"
+  },
+  "images/crystal-4mm/c4_FF7003.jpg": {
+   "code": "FF7003",
+   "source": "filename"
+  },
+  "images/crystal-4mm/c4_FF7004.jpg": {
+   "code": "FF7004",
+   "source": "filename"
+  },
+  "images/crystal-4mm/c4_FF7005.jpg": {
+   "code": "FF7005",
+   "source": "filename"
+  },
+  "images/crystal-4mm/c4_FF7006.jpg": {
+   "code": "FF7006",
+   "source": "filename"
+  },
+  "images/crystal-4mm/c4_FF7007.jpg": {
+   "code": "FF7007",
+   "source": "filename"
+  },
+  "images/crystal-4mm/c4_FF7008.jpg": {
+   "code": "FF7008",
+   "source": "filename"
+  },
+  "images/crystal-4mm/c4_FF7009.jpg": {
+   "code": "FF7009",
+   "source": "filename"
+  },
+  "images/crystal-4mm/c4_FF7010.jpg": {
+   "code": "FF7010",
+   "source": "filename"
+  },
+  "images/crystal-4mm/c4_FF7011.jpg": {
+   "code": "FF7011",
+   "source": "filename"
+  },
+  "images/crystal-4mm/c4_FF7012.jpg": {
+   "code": "FF7012",
+   "source": "filename"
+  },
+  "images/crystal-4mm/c4_FF7013.jpg": {
+   "code": "FF7013",
+   "source": "filename"
+  },
+  "images/crystal-4mm/c4_FF7014.jpg": {
+   "code": "FF7014",
+   "source": "filename"
+  },
+  "images/crystal-4mm/c4_FF7015.jpg": {
+   "code": "FF7015",
+   "source": "filename"
+  },
+  "images/crystal-4mm/c4_FF7017.jpg": {
+   "code": "FF7017",
+   "source": "filename"
+  },
+  "images/crystal-4mm/c4_FF7018.jpg": {
+   "code": "FF7018",
+   "source": "filename"
+  },
+  "images/crystal-4mm/c4_FF7019.jpg": {
+   "code": "FF7019",
+   "source": "filename"
+  },
+  "images/crystal-4mm/c4_FF7020.jpg": {
+   "code": "FF7020",
+   "source": "filename"
+  },
+  "images/crystal-4mm/c4_FF7021.jpg": {
+   "code": "FF7021",
+   "source": "filename"
+  },
+  "images/crystal-4mm/c4_FF7022.jpg": {
+   "code": "FF7022",
+   "source": "filename"
+  },
+  "images/crystal-4mm/c4_FF7027.jpg": {
+   "code": "FF7027",
+   "source": "filename"
+  },
+  "images/crystal-4mm/c4_FF7029.jpg": {
+   "code": "FF7029",
+   "source": "filename"
+  },
+  "images/crystal-4mm/c4_FF7030.jpg": {
+   "code": "FF7030",
+   "source": "filename"
+  },
+  "images/crystal-4mm/c4_FF7031.jpg": {
+   "code": "FF7031",
+   "source": "filename"
+  },
+  "images/crystal-4mm/c4_FF7032.jpg": {
+   "code": "FF7032",
+   "source": "filename"
+  },
+  "images/glass/glass_nosand_rainbow_01.jpg": {
+   "code": "CH001",
+   "source": "series:glass_nosand_rainbow"
+  },
+  "images/glass/glass_nosand_rainbow_02.jpg": {
+   "code": "CH002",
+   "source": "series:glass_nosand_rainbow"
+  },
+  "images/glass/glass_nosand_rainbow_03.jpg": {
+   "code": "CH003",
+   "source": "series:glass_nosand_rainbow"
+  },
+  "images/glass/glass_nosand_rainbow_04.jpg": {
+   "code": "CH004",
+   "source": "series:glass_nosand_rainbow"
+  },
+  "images/glass/glass_nosand_rainbow_05.jpg": {
+   "code": "CH005",
+   "source": "series:glass_nosand_rainbow"
+  },
+  "images/glass/glass_nosand_rainbow_06.jpg": {
+   "code": "CH006",
+   "source": "series:glass_nosand_rainbow"
+  },
+  "images/glass/glass_nosand_rainbow_07.jpg": {
+   "code": "CH007",
+   "source": "series:glass_nosand_rainbow"
+  },
+  "images/glass/glass_nosand_rainbow_08.jpg": {
+   "code": "CH008",
+   "source": "series:glass_nosand_rainbow"
+  },
+  "images/glass/glass_nosand_rainbow_09.jpg": {
+   "code": "CH009",
+   "source": "series:glass_nosand_rainbow"
+  },
+  "images/glass/glass_nosand_rainbow_10.jpg": {
+   "code": "CH010",
+   "source": "series:glass_nosand_rainbow"
+  },
+  "images/glass/glass_nosand_rainbow_11.jpg": {
+   "code": "CH011",
+   "source": "series:glass_nosand_rainbow"
+  },
+  "images/glass/glass_nosand_rainbow_12.jpg": {
+   "code": "CH012",
+   "source": "series:glass_nosand_rainbow"
+  },
+  "images/glass/glass_nosand_rainbow_13.jpg": {
+   "code": "CH013",
+   "source": "series:glass_nosand_rainbow"
+  },
+  "images/glass/glass_nosand_rainbow_14.jpg": {
+   "code": "CH014",
+   "source": "series:glass_nosand_rainbow"
+  },
+  "images/glass/glass_cloud_01.jpg": {
+   "code": "FC001",
+   "source": "series:glass_cloud"
+  },
+  "images/glass/glass_cloud_02.jpg": {
+   "code": "FC002",
+   "source": "series:glass_cloud"
+  },
+  "images/glass/glass_cloud_03.jpg": {
+   "code": "FC003",
+   "source": "series:glass_cloud"
+  },
+  "images/glass/glass_cloud_04.jpg": {
+   "code": "FC004",
+   "source": "series:glass_cloud"
+  },
+  "images/glass/glass_cloud_05.jpg": {
+   "code": "FC005",
+   "source": "series:glass_cloud"
+  },
+  "images/glass/glass_cloud_06.jpg": {
+   "code": "FC006",
+   "source": "series:glass_cloud"
+  },
+  "images/glass/glass_cloud_07.jpg": {
+   "code": "FC007",
+   "source": "series:glass_cloud"
+  },
+  "images/glass/glass_cloud_08.jpg": {
+   "code": "FC008",
+   "source": "series:glass_cloud"
+  },
+  "images/glass/glass_cloud_09.jpg": {
+   "code": "FC009",
+   "source": "series:glass_cloud"
+  },
+  "images/glass/glass_cloud_10.jpg": {
+   "code": "FC010",
+   "source": "series:glass_cloud"
+  },
+  "images/glass/glass_cloud_11.jpg": {
+   "code": "FC011",
+   "source": "series:glass_cloud"
+  },
+  "images/glass/glass_cloud_12.jpg": {
+   "code": "FC012",
+   "source": "series:glass_cloud"
+  },
+  "images/glass/glass_cloud_13.jpg": {
+   "code": "FC013",
+   "source": "series:glass_cloud"
+  },
+  "images/glass/glass_cloud_14.jpg": {
+   "code": "FC014",
+   "source": "series:glass_cloud"
+  },
+  "images/glass/glass_diamond_01.jpg": {
+   "code": "101001",
+   "source": "series:glass_diamond"
+  },
+  "images/glass/glass_diamond_02.jpg": {
+   "code": "101002",
+   "source": "series:glass_diamond"
+  },
+  "images/glass/glass_diamond_03.jpg": {
+   "code": "101003",
+   "source": "series:glass_diamond"
+  },
+  "images/glass/glass_diamond_04.jpg": {
+   "code": "101004",
+   "source": "series:glass_diamond"
+  },
+  "images/glass/glass_diamond_05.jpg": {
+   "code": "101005",
+   "source": "series:glass_diamond"
+  },
+  "images/glass/glass_diamond_06.jpg": {
+   "code": "101006",
+   "source": "series:glass_diamond"
+  },
+  "images/glass/glass_diamond_07.jpg": {
+   "code": "101007",
+   "source": "series:glass_diamond"
+  },
+  "images/glass/glass_diamond_08.jpg": {
+   "code": "101008",
+   "source": "series:glass_diamond"
+  },
+  "images/glass/glass_diamond_09.jpg": {
+   "code": "101009",
+   "source": "series:glass_diamond"
+  },
+  "images/glass/glass_diamond_10.jpg": {
+   "code": "101010",
+   "source": "series:glass_diamond"
+  },
+  "images/glass/glass_diamond_11.jpg": {
+   "code": "101011",
+   "source": "series:glass_diamond"
+  },
+  "images/glass/glass_diamond_12.jpg": {
+   "code": "101012",
+   "source": "series:glass_diamond"
+  },
+  "images/glass/glass_diamond_13.jpg": {
+   "code": "101013",
+   "source": "series:glass_diamond"
+  },
+  "images/glass/glass_diamond_14.jpg": {
+   "code": "101014",
+   "source": "series:glass_diamond"
+  }
+ },
+ "need_confirm": [
+  "images/ceramic/ceramic_01.jpg",
+  "images/ceramic/ceramic_02.jpg",
+  "images/ceramic/ceramic_03.jpg",
+  "images/ceramic/ceramic_04.jpg",
+  "images/ceramic/ceramic_05.jpg",
+  "images/ceramic/ceramic_06.jpg",
+  "images/ceramic/ceramic_07.jpg",
+  "images/ceramic/ceramic_08.jpg",
+  "images/ceramic/ceramic_09.jpg",
+  "images/ceramic/ceramic_10.jpg",
+  "images/ceramic/ceramic_11.jpg",
+  "images/ceramic/ceramic_12.jpg",
+  "images/ceramic/ceramic_13.jpg",
+  "images/ceramic/ceramic_14.jpg",
+  "images/ceramic/ceramic_15.jpg",
+  "images/ceramic/ceramic_16.jpg",
+  "images/ceramic/ceramic_17.jpg",
+  "images/ceramic/ceramic_18.jpg",
+  "images/ceramic/ceramic_19.jpg",
+  "images/ceramic/ceramic_20.jpg",
+  "images/ceramic/ceramic_21.jpg",
+  "images/ceramic/ceramic_22.jpg",
+  "images/ceramic/ceramic_23.jpg",
+  "images/ceramic/ceramic_24.jpg",
+  "images/ceramic/ceramic_25.jpg",
+  "images/ceramic/ceramic_26.jpg",
+  "images/ceramic/ceramic_27.jpg",
+  "images/ceramic/ceramic_28.jpg",
+  "images/ceramic/ceramic_29.jpg",
+  "images/ceramic/ceramic_30.jpg",
+  "images/ceramic/ceramic_31.jpg",
+  "images/ceramic/ceramic_32.jpg",
+  "images/ceramic/ceramic_33.jpg",
+  "images/ceramic/ceramic_34.jpg",
+  "images/ceramic/ceramic_35.jpg",
+  "images/ceramic/ceramic_36.jpg",
+  "images/ceramic/ceramic_37.jpg",
+  "images/ceramic/ceramic_38.jpg",
+  "images/ceramic/ceramic_39.jpg",
+  "images/ceramic/ceramic_40.jpg",
+  "images/ceramic/ceramic_41.jpg",
+  "images/ceramic/ceramic_42.jpg",
+  "images/ceramic/ceramic_43.jpg",
+  "images/ceramic/ceramic_44.jpg",
+  "images/crystal-6mm/c6_6厘幻彩_00.jpg",
+  "images/crystal-6mm/c6_6厘幻彩_01.jpg",
+  "images/crystal-6mm/c6_6厘幻彩_02.jpg",
+  "images/crystal-6mm/c6_6厘幻彩_03.jpg",
+  "images/crystal-6mm/c6_6厘幻彩_04.jpg",
+  "images/crystal-6mm/c6_6厘幻彩_05.jpg",
+  "images/crystal-6mm/c6_6厘幻彩_06.jpg",
+  "images/crystal-6mm/c6_6厘幻彩_07.jpg",
+  "images/crystal-6mm/c6_6厘幻彩_08.jpg",
+  "images/crystal-6mm/c6_6厘幻彩_09.jpg",
+  "images/crystal-6mm/c6_6厘幻彩_10.jpg",
+  "images/crystal-6mm/c6_6厘幻彩_11.jpg",
+  "images/crystal-6mm/c6_6厘幻彩_12.jpg",
+  "images/crystal-6mm/c6_6厘幻彩_13.jpg",
+  "images/crystal-6mm/c6_6厘幻彩_14.jpg",
+  "images/crystal-6mm/c6_6厘幻彩_15.jpg",
+  "images/crystal-6mm/c6_6厘幻彩_16.jpg",
+  "images/crystal-6mm/c6_6厘幻彩_17.jpg",
+  "images/crystal-6mm/c6_6厘幻彩_18.jpg",
+  "images/crystal-6mm/c6_6厘幻彩_19.jpg",
+  "images/crystal-6mm/c6_6厘幻彩_20.jpg",
+  "images/crystal-6mm/c6_6厘幻彩_21.jpg",
+  "images/crystal-6mm/c6_6厘幻彩_22.jpg",
+  "images/crystal-6mm/c6_6厘幻彩_23.jpg",
+  "images/crystal-6mm/c6_6厘幻彩_24.jpg",
+  "images/crystal-6mm/c6_6厘幻彩_25.jpg",
+  "images/crystal-6mm/c6_6厘幻彩_26.jpg",
+  "images/crystal-6mm/c6_6厘幻彩_27.jpg",
+  "images/crystal-6mm/c6_6厘幻彩_28.jpg",
+  "images/crystal-6mm/c6_6厘幻彩_29.jpg",
+  "images/crystal-6mm/c6_6厘幻彩_30.jpg",
+  "images/crystal-6mm/c6_6厘幻彩_31.jpg",
+  "images/crystal-6mm/c6_6厘幻彩_32.jpg",
+  "images/crystal-6mm/c6_6厘幻彩_33.jpg",
+  "images/crystal-6mm/c6_6厘幻彩_34.jpg",
+  "images/crystal-6mm/c6_6厘幻彩_35.jpg",
+  "images/crystal-6mm/c6_6厘幻彩_36.jpg",
+  "images/crystal-6mm/c6_6厘幻彩_37.jpg",
+  "images/crystal-6mm/c6_6厘幻彩_38.jpg",
+  "images/crystal-6mm/c6_6厘幻彩_39.jpg",
+  "images/crystal-pool/crystal_pool_a_01.jpg",
+  "images/crystal-pool/crystal_pool_a_02.jpg",
+  "images/crystal-pool/crystal_pool_a_03.jpg",
+  "images/crystal-pool/crystal_pool_a_04.jpg",
+  "images/crystal-pool/crystal_pool_a_05.jpg",
+  "images/crystal-pool/crystal_pool_a_06.jpg",
+  "images/crystal-pool/crystal_pool_a_07.jpg",
+  "images/crystal-pool/crystal_pool_a_08.jpg",
+  "images/crystal-pool/crystal_pool_a_09.jpg",
+  "images/crystal-pool/crystal_pool_a_10.jpg",
+  "images/crystal-pool/crystal_pool_b_01.jpg",
+  "images/crystal-pool/crystal_pool_b_02.jpg",
+  "images/crystal-pool/crystal_pool_b_03.jpg",
+  "images/crystal-pool/crystal_pool_b_04.jpg",
+  "images/crystal-pool/crystal_pool_b_05.jpg",
+  "images/crystal-pool/crystal_pool_b_06.jpg",
+  "images/crystal-pool/crystal_pool_b_07.jpg",
+  "images/crystal-pool/crystal_pool_b_08.jpg",
+  "images/glass/glass_iceflower_01.jpg",
+  "images/glass/glass_iceflower_02.jpg",
+  "images/glass/glass_iceflower_03.jpg",
+  "images/glass/glass_iceflower_04.jpg",
+  "images/glass/glass_iceflower_05.jpg",
+  "images/glass/glass_iceflower_06.jpg",
+  "images/glass/glass_iceflower_07.jpg",
+  "images/glass/glass_iceflower_08.jpg",
+  "images/glass/glass_iceflower_09.jpg",
+  "images/glass/glass_iceflower_10.jpg",
+  "images/glass/glass_iceflower_11.jpg",
+  "images/glass/glass_iceflower_12.jpg",
+  "images/glass/glass_iceflower_13.jpg",
+  "images/glass/glass_iceflower_14.jpg",
+  "images/glass/glass_goldline_01.jpg",
+  "images/glass/glass_goldline_02.jpg",
+  "images/glass/glass_goldline_03.jpg",
+  "images/glass/glass_goldline_04.jpg",
+  "images/glass/glass_goldline_05.jpg",
+  "images/glass/glass_goldline_06.jpg",
+  "images/glass/glass_goldline_07.jpg",
+  "images/glass/glass_goldline_08.jpg",
+  "images/glass/glass_goldline_09.jpg",
+  "images/glass/glass_goldline_10.jpg",
+  "images/glass/glass_goldline_11.jpg",
+  "images/glass/glass_goldline_12.jpg",
+  "images/glass/glass_goldline_13.jpg",
+  "images/glass/glass_goldline_14.jpg",
+  "images/glass/glass_hotmelt_nosand_01.jpg",
+  "images/glass/glass_hotmelt_nosand_02.jpg",
+  "images/glass/glass_hotmelt_nosand_03.jpg",
+  "images/glass/glass_hotmelt_nosand_04.jpg",
+  "images/glass/glass_hotmelt_nosand_05.jpg",
+  "images/glass/glass_hotmelt_nosand_06.jpg",
+  "images/glass/glass_hotmelt_nosand_07.jpg",
+  "images/glass/glass_hotmelt_nosand_08.jpg",
+  "images/glass/glass_hotmelt_nosand_09.jpg",
+  "images/glass/glass_hotmelt_nosand_10.jpg",
+  "images/glass/glass_hotmelt_nosand_11.jpg",
+  "images/glass/glass_hotmelt_sand_01.jpg",
+  "images/glass/glass_hotmelt_sand_02.jpg",
+  "images/glass/glass_hotmelt_sand_03.jpg",
+  "images/glass/glass_hotmelt_sand_04.jpg",
+  "images/glass/glass_hotmelt_sand_05.jpg",
+  "images/glass/glass_hotmelt_sand_06.jpg",
+  "images/glass/glass_hotmelt_sand_07.jpg",
+  "images/glass/glass_hotmelt_sand_08.jpg",
+  "images/glass/glass_hotmelt_sand_09.jpg",
+  "images/glass/glass_hotmelt_sand_10.jpg",
+  "images/glass/glass_hotmelt_sand_11.jpg",
+  "images/glass/glass_hotmelt_sand_12.jpg",
+  "images/glass/glass_hotmelt_sand_13.jpg",
+  "images/glass/glass_hotmelt_sand_14.jpg",
+  "images/glass/glass_shimmer_01.jpg",
+  "images/glass/glass_shimmer_02.jpg",
+  "images/glass/glass_shimmer_03.jpg",
+  "images/glass/glass_shimmer_04.jpg",
+  "images/glass/glass_shimmer_05.jpg",
+  "images/glass/glass_shimmer_06.jpg",
+  "images/glass/glass_shimmer_07.jpg",
+  "images/glass/glass_shimmer_08.jpg",
+  "images/glass/glass_shimmer_09.jpg",
+  "images/glass/glass_shimmer_10.jpg",
+  "images/glass/glass_shimmer_11.jpg",
+  "images/glass/glass_shimmer_12.jpg",
+  "images/glass/glass_shimmer_13.jpg",
+  "images/glass/glass_shimmer_14.jpg",
+  "images/glass/glass_icejade_01.jpg",
+  "images/glass/glass_icejade_02.jpg",
+  "images/glass/glass_icejade_03.jpg",
+  "images/glass/glass_icejade_04.jpg",
+  "images/glass/glass_icejade_05.jpg",
+  "images/glass/glass_hexagon_01.jpg",
+  "images/glass/glass_hexagon_02.jpg",
+  "images/glass/glass_hexagon_03.jpg",
+  "images/glass/glass_hexagon_04.jpg",
+  "images/glass/glass_hexagon_05.jpg",
+  "images/glass/glass_hexagon_06.jpg",
+  "images/glass/glass_hexagon_07.jpg",
+  "images/glass/glass_hexagon_08.jpg",
+  "images/glass/glass_hexagon_09.jpg",
+  "images/glass/glass_hexagon_10.jpg",
+  "images/glass/glass_hexagon_11.jpg",
+  "images/glass/glass_hexagon_12.jpg",
+  "images/glass/glass_hexagon_13.jpg",
+  "images/glass/glass_hexagon_14.jpg",
+  "images/handcut/handcut_01.jpg",
+  "images/handcut/handcut_02.jpg",
+  "images/handcut/handcut_03.jpg",
+  "images/handcut/handcut_04.jpg",
+  "images/handcut/handcut_05.jpg",
+  "images/handcut/handcut_06.jpg",
+  "images/handcut/handcut_07.jpg",
+  "images/handcut/handcut_08.jpg",
+  "images/handcut/handcut_09.jpg",
+  "images/handcut/handcut_10.jpg",
+  "images/handcut/handcut_11.jpg",
+  "images/handcut/handcut_12.jpg",
+  "images/handcut/handcut_13.jpg",
+  "images/handcut/handcut_14.jpg",
+  "images/handcut/handcut_15.jpg",
+  "images/handcut/handcut_16.jpg",
+  "images/marble-sorted/geometric/marble_flooring_01.jpg",
+  "images/marble-sorted/geometric/marble_flooring_02.jpg",
+  "images/marble-sorted/geometric/marble_flooring_03.jpg",
+  "images/marble-sorted/geometric/marble_flooring_04.jpg",
+  "images/marble-sorted/geometric/marble_flooring_05.jpg",
+  "images/marble-sorted/geometric/marble_flooring_06.jpg",
+  "images/marble-sorted/geometric/marble_flooring_07.jpg",
+  "images/marble-sorted/geometric/marble_flooring_08.jpg",
+  "images/marble-sorted/geometric/marble_flooring_09.jpg",
+  "images/marble-sorted/geometric/marble_flooring_10.jpg",
+  "images/marble-sorted/geometric/marble_flooring_11.jpg",
+  "images/marble-sorted/geometric/marble_flooring_12.jpg",
+  "images/marble-sorted/geometric/marble_flooring_13.jpg",
+  "images/marble-sorted/geometric/marble_flooring_14.jpg",
+  "images/marble-sorted/geometric/marble_waterjet_01.jpg",
+  "images/marble-sorted/plain/marble_waterjet_02.jpg",
+  "images/marble-sorted/floral/marble_waterjet_03.jpg",
+  "images/marble-sorted/waterjet-pattern/marble_waterjet_04.jpg",
+  "images/marble-sorted/waterjet-pattern/marble_waterjet_05.jpg",
+  "images/marble-sorted/waterjet-pattern/marble_waterjet_06.jpg",
+  "images/marble-sorted/waterjet-pattern/marble_waterjet_07.jpg",
+  "images/marble-sorted/geometric/marble_waterjet_08.jpg",
+  "images/marble-sorted/waterjet-pattern/marble_waterjet_09.jpg",
+  "images/marble-sorted/floral/marble_waterjet_10.jpg",
+  "images/marble-sorted/waterjet-pattern/marble_waterjet_11.jpg",
+  "images/marble-sorted/geometric/marble_waterjet_12.jpg",
+  "images/marble-sorted/waterjet-pattern/marble_waterjet_13.jpg",
+  "images/marble-sorted/floral/marble_waterjet_14.jpg",
+  "images/pool-patterns/pool_2026_01.jpg",
+  "images/pool-patterns/pool_2026_02.jpg",
+  "images/pool-patterns/pool_2026_03.jpg",
+  "images/pool-patterns/pool_2026_04.jpg",
+  "images/pool-patterns/pool_2026_05.jpg",
+  "images/pool-patterns/pool_2026_06.jpg",
+  "images/pool-patterns/pool_2026_07.jpg",
+  "images/pool-patterns/pool_2026_08.jpg",
+  "images/pool-patterns/pool_2026_09.jpg",
+  "images/pool-patterns/pool_2026_10.jpg",
+  "images/pool-patterns/pool_2026_11.jpg",
+  "images/pool-patterns/pool_2026_12.jpg",
+  "images/pool-patterns/pool_2026_13.jpg",
+  "images/pool-patterns/pool_2026_14.jpg",
+  "images/pool-patterns/pool_2026_15.jpg",
+  "images/pool-patterns/pool_2026_16.jpg"
+ ],
+ "need_confirm_with_bk": [
+  "images/ceramic/ceramic_02.jpg",
+  "images/ceramic/ceramic_03.jpg",
+  "images/ceramic/ceramic_04.jpg",
+  "images/ceramic/ceramic_05.jpg",
+  "images/ceramic/ceramic_07.jpg",
+  "images/ceramic/ceramic_10.jpg",
+  "images/ceramic/ceramic_11.jpg",
+  "images/ceramic/ceramic_12.jpg",
+  "images/ceramic/ceramic_13.jpg",
+  "images/ceramic/ceramic_14.jpg",
+  "images/ceramic/ceramic_15.jpg",
+  "images/ceramic/ceramic_16.jpg",
+  "images/ceramic/ceramic_18.jpg",
+  "images/ceramic/ceramic_19.jpg",
+  "images/ceramic/ceramic_20.jpg",
+  "images/ceramic/ceramic_22.jpg",
+  "images/ceramic/ceramic_24.jpg",
+  "images/ceramic/ceramic_25.jpg",
+  "images/ceramic/ceramic_26.jpg",
+  "images/ceramic/ceramic_27.jpg",
+  "images/ceramic/ceramic_30.jpg",
+  "images/ceramic/ceramic_32.jpg",
+  "images/ceramic/ceramic_34.jpg",
+  "images/ceramic/ceramic_35.jpg",
+  "images/ceramic/ceramic_36.jpg",
+  "images/ceramic/ceramic_37.jpg",
+  "images/ceramic/ceramic_39.jpg",
+  "images/ceramic/ceramic_40.jpg",
+  "images/ceramic/ceramic_41.jpg",
+  "images/ceramic/ceramic_42.jpg",
+  "images/ceramic/ceramic_43.jpg",
+  "images/crystal-6mm/c6_6厘幻彩_00.jpg",
+  "images/crystal-6mm/c6_6厘幻彩_01.jpg",
+  "images/crystal-6mm/c6_6厘幻彩_02.jpg",
+  "images/crystal-6mm/c6_6厘幻彩_03.jpg",
+  "images/crystal-6mm/c6_6厘幻彩_04.jpg",
+  "images/crystal-6mm/c6_6厘幻彩_05.jpg",
+  "images/crystal-6mm/c6_6厘幻彩_06.jpg",
+  "images/crystal-6mm/c6_6厘幻彩_07.jpg",
+  "images/crystal-6mm/c6_6厘幻彩_08.jpg",
+  "images/crystal-6mm/c6_6厘幻彩_09.jpg",
+  "images/crystal-6mm/c6_6厘幻彩_10.jpg",
+  "images/crystal-6mm/c6_6厘幻彩_11.jpg",
+  "images/crystal-6mm/c6_6厘幻彩_12.jpg",
+  "images/crystal-6mm/c6_6厘幻彩_13.jpg",
+  "images/crystal-6mm/c6_6厘幻彩_14.jpg",
+  "images/crystal-6mm/c6_6厘幻彩_15.jpg",
+  "images/crystal-6mm/c6_6厘幻彩_16.jpg",
+  "images/crystal-6mm/c6_6厘幻彩_17.jpg",
+  "images/crystal-6mm/c6_6厘幻彩_18.jpg",
+  "images/crystal-6mm/c6_6厘幻彩_19.jpg",
+  "images/crystal-6mm/c6_6厘幻彩_20.jpg",
+  "images/crystal-6mm/c6_6厘幻彩_21.jpg",
+  "images/crystal-6mm/c6_6厘幻彩_22.jpg",
+  "images/crystal-6mm/c6_6厘幻彩_23.jpg",
+  "images/crystal-6mm/c6_6厘幻彩_24.jpg",
+  "images/crystal-6mm/c6_6厘幻彩_25.jpg",
+  "images/crystal-6mm/c6_6厘幻彩_26.jpg",
+  "images/crystal-6mm/c6_6厘幻彩_27.jpg",
+  "images/crystal-6mm/c6_6厘幻彩_28.jpg",
+  "images/crystal-6mm/c6_6厘幻彩_29.jpg",
+  "images/crystal-6mm/c6_6厘幻彩_30.jpg",
+  "images/crystal-6mm/c6_6厘幻彩_31.jpg",
+  "images/crystal-6mm/c6_6厘幻彩_32.jpg",
+  "images/crystal-6mm/c6_6厘幻彩_33.jpg",
+  "images/crystal-6mm/c6_6厘幻彩_34.jpg",
+  "images/crystal-6mm/c6_6厘幻彩_35.jpg",
+  "images/crystal-6mm/c6_6厘幻彩_36.jpg",
+  "images/crystal-6mm/c6_6厘幻彩_37.jpg",
+  "images/crystal-6mm/c6_6厘幻彩_38.jpg",
+  "images/crystal-6mm/c6_6厘幻彩_39.jpg",
+  "images/crystal-pool/crystal_pool_a_01.jpg",
+  "images/crystal-pool/crystal_pool_a_02.jpg",
+  "images/crystal-pool/crystal_pool_a_03.jpg",
+  "images/crystal-pool/crystal_pool_a_04.jpg",
+  "images/crystal-pool/crystal_pool_a_06.jpg",
+  "images/crystal-pool/crystal_pool_a_09.jpg",
+  "images/crystal-pool/crystal_pool_a_10.jpg",
+  "images/crystal-pool/crystal_pool_b_01.jpg",
+  "images/crystal-pool/crystal_pool_b_03.jpg",
+  "images/crystal-pool/crystal_pool_b_04.jpg",
+  "images/crystal-pool/crystal_pool_b_06.jpg",
+  "images/crystal-pool/crystal_pool_b_07.jpg",
+  "images/crystal-pool/crystal_pool_b_08.jpg",
+  "images/glass/glass_iceflower_01.jpg",
+  "images/glass/glass_iceflower_02.jpg",
+  "images/glass/glass_iceflower_03.jpg",
+  "images/glass/glass_iceflower_04.jpg",
+  "images/glass/glass_iceflower_05.jpg",
+  "images/glass/glass_iceflower_06.jpg",
+  "images/glass/glass_iceflower_07.jpg",
+  "images/glass/glass_iceflower_08.jpg",
+  "images/glass/glass_iceflower_09.jpg",
+  "images/glass/glass_iceflower_10.jpg",
+  "images/glass/glass_iceflower_11.jpg",
+  "images/glass/glass_iceflower_12.jpg",
+  "images/glass/glass_iceflower_13.jpg",
+  "images/glass/glass_goldline_01.jpg",
+  "images/glass/glass_goldline_03.jpg",
+  "images/glass/glass_goldline_12.jpg",
+  "images/glass/glass_hotmelt_nosand_01.jpg",
+  "images/glass/glass_hotmelt_nosand_03.jpg",
+  "images/glass/glass_hotmelt_nosand_08.jpg",
+  "images/glass/glass_hotmelt_nosand_11.jpg",
+  "images/glass/glass_hotmelt_sand_02.jpg",
+  "images/glass/glass_hotmelt_sand_03.jpg",
+  "images/glass/glass_hotmelt_sand_05.jpg",
+  "images/glass/glass_hotmelt_sand_06.jpg",
+  "images/glass/glass_hotmelt_sand_07.jpg",
+  "images/glass/glass_hotmelt_sand_10.jpg",
+  "images/glass/glass_hotmelt_sand_11.jpg",
+  "images/glass/glass_hotmelt_sand_12.jpg",
+  "images/glass/glass_hotmelt_sand_13.jpg",
+  "images/glass/glass_hotmelt_sand_14.jpg",
+  "images/glass/glass_shimmer_01.jpg",
+  "images/glass/glass_shimmer_02.jpg",
+  "images/glass/glass_shimmer_03.jpg",
+  "images/glass/glass_shimmer_07.jpg",
+  "images/glass/glass_shimmer_13.jpg",
+  "images/glass/glass_shimmer_14.jpg",
+  "images/glass/glass_icejade_01.jpg",
+  "images/glass/glass_icejade_02.jpg",
+  "images/glass/glass_icejade_03.jpg",
+  "images/glass/glass_icejade_04.jpg",
+  "images/glass/glass_icejade_05.jpg",
+  "images/glass/glass_hexagon_01.jpg",
+  "images/glass/glass_hexagon_02.jpg",
+  "images/glass/glass_hexagon_03.jpg",
+  "images/glass/glass_hexagon_04.jpg",
+  "images/glass/glass_hexagon_05.jpg",
+  "images/glass/glass_hexagon_06.jpg",
+  "images/glass/glass_hexagon_07.jpg",
+  "images/glass/glass_hexagon_08.jpg",
+  "images/glass/glass_hexagon_09.jpg",
+  "images/glass/glass_hexagon_10.jpg",
+  "images/glass/glass_hexagon_11.jpg",
+  "images/glass/glass_hexagon_12.jpg",
+  "images/glass/glass_hexagon_13.jpg",
+  "images/glass/glass_hexagon_14.jpg",
+  "images/handcut/handcut_08.jpg",
+  "images/handcut/handcut_16.jpg",
+  "images/pool-patterns/pool_2026_01.jpg",
+  "images/pool-patterns/pool_2026_02.jpg",
+  "images/pool-patterns/pool_2026_03.jpg",
+  "images/pool-patterns/pool_2026_04.jpg",
+  "images/pool-patterns/pool_2026_05.jpg",
+  "images/pool-patterns/pool_2026_06.jpg",
+  "images/pool-patterns/pool_2026_07.jpg",
+  "images/pool-patterns/pool_2026_08.jpg",
+  "images/pool-patterns/pool_2026_09.jpg",
+  "images/pool-patterns/pool_2026_10.jpg",
+  "images/pool-patterns/pool_2026_11.jpg",
+  "images/pool-patterns/pool_2026_12.jpg",
+  "images/pool-patterns/pool_2026_13.jpg",
+  "images/pool-patterns/pool_2026_14.jpg",
+  "images/pool-patterns/pool_2026_15.jpg",
+  "images/pool-patterns/pool_2026_16.jpg"
+ ]
+}
