@@ -1,0 +1,6 @@
+images/ceramic/ceramic_39.jpg :: 77507(0.29)
+images/ceramic/ceramic_42.jpg :: Gw 亚(0.23)
+images/ceramic/ceramic_43.jpg :: GW(0.34)
+images/glass/glass_nosand_rainbow_13.jpg :: U(0.44)
+images/pool-patterns/pool_2026_08.jpg :: 园林艺术马赛克。马赛克镶嵌壁画等(0.38)
+images/pool-patterns/pool_2026_09.jpg :: Wth IC Orocsslonl(0.21)
