@@ -1,0 +1,335 @@
+{"file": "ceramic/ceramic_02.jpg", "codes": [{"code": "191", "conf": 1.0}, {"code": "1926", "conf": 1.0}, {"code": "1902", "conf": 0.92}, {"code": "1921", "conf": 0.79}], "all_texts": [[0.42, "1908"], [0.29, "15U"], [0.3, "900"], [0.92, "1902"], [1.0, "191"], [0.52, "1016"], [0.79, "1921"], [0.19, "1925"]]}
+{"file": "ceramic/ceramic_03.jpg", "codes": [{"code": "505", "conf": 1.0}, {"code": "1507", "conf": 0.96}], "all_texts": [[0.02, "Chp Slze n["], [0.09, "1ASIN"], [0.03, "Shaels SIzek长:"], [0.02, "29k ?97mT"], [0.16, "Quarllyd"], [0.01, "38平力0"], [0.09, "RT"], [0.11, "12,5KGI平方m"]]}
+{"file": "ceramic/ceramic_04.jpg", "codes": [], "all_texts": [[0.21, "7711"], [0.18, "RNI"], [0.04, "22 |S5TI"], [0.01, "SoRnm"], [0.98, "mm"], [0.04, "G !"], [0.26, "NITm"], [0.26, "2216"]]}
+{"file": "ceramic/ceramic_05.jpg", "codes": [{"code": "2205", "conf": 1.0}, {"code": "2208", "conf": 0.96}, {"code": "2202", "conf": 0.92}, {"code": "22408", "conf": 0.9}], "all_texts": [[0.04, "Crp 54n"], [0.15, "22. 14Smm"], [0.07, "Sheats SIZe戌长"], [0.06, "30RI0ITI"], [0.07, "UUANIL"], [0.0, "110享方m"], [0.09, "5"], [0.22, "I2KGIThm"]]}
+{"file": "ceramic/ceramic_07.jpg", "codes": [], "all_texts": [[0.26, "0"]]}
+{"file": "ceramic/ceramic_10.jpg", "codes": [{"code": "710", "conf": 0.53}, {"code": "507", "conf": 0.32}], "all_texts": [[0.53, "7505.57"], [0.05, "Chn SIJ。AI"], [0.39, "3IT"], [0.0, "SnSnas"], [0.61, "TT"], [0.02, "[IOAI"], [0.0, "1191g Tm"], [0.32, "507"]]}
+{"file": "ceramic/ceramic_11.jpg", "codes": [{"code": "305", "conf": 1.0}, {"code": "302", "conf": 0.99}, {"code": "303", "conf": 0.61}, {"code": "1308", "conf": 0.3}], "all_texts": [[0.0, "#B}A4"], [0.96, "305"], [1.0, "305"], [0.61, "303"], [0.99, "302"], [0.3, "1308"], [0.23, "CNIN SIIO"], [0.18, "1LMN"]]}
+{"file": "ceramic/ceramic_12.jpg", "codes": [{"code": "14", "conf": 0.57}], "all_texts": [[0.09, "蓬"], [0.02, "Cne5UL"], [0.57, "14"], [0.0, "TnN"], [0.01, "OSmm ( 人Te121042505 |工T&1200."], [0.78, "1"], [0.01, "cN"], [0.22, "1qST"]]}
+{"file": "ceramic/ceramic_13.jpg", "codes": [], "all_texts": [[0.08, "2148-05"], [0.47, "2145-」"], [0.32, "2]45-1"], [0.24, "2145-4"], [0.05, "0241["], [0.22, "2048"], [0.28, "2148-0"], [0.51, "3145月"]]}
+{"file": "ceramic/ceramic_14.jpg", "codes": [{"code": "FG4802", "conf": 0.93}, {"code": "FG4805", "conf": 0.73}, {"code": "FG4801", "conf": 0.68}, {"code": "FG4803", "conf": 0.53}], "all_texts": [[0.11, "Cr Sno"], [0.01, "48m"], [0.38, "Shnnl"], [0.1, "GJnli"], [0.19, "10UAI"], [0.73, "FG4805"], [0.42, "FG480"], [0.53, "FG4803"]]}
+{"file": "ceramic/ceramic_15.jpg", "codes": [{"code": "01045", "conf": 0.33}], "all_texts": [[0.33, "01045"], [0.21, "0104-5"], [0.22, "1107"]]}
+{"file": "ceramic/ceramic_16.jpg", "codes": [{"code": "401", "conf": 0.98}, {"code": "25000", "conf": 0.88}, {"code": "4802", "conf": 0.82}, {"code": "4803", "conf": 0.58}], "all_texts": [[0.88, "25000"], [0.24, "301"], [0.33, "480OO"], [0.98, "401"], [0.17, "A8H16"], [0.82, "4802"], [0.58, "4803"], [0.1, "480阳"]]}
+{"file": "ceramic/ceramic_18.jpg", "codes": [{"code": "18771", "conf": 0.31}], "all_texts": [[0.01, "CMD SINNT"], [0.13, "JAm"], [0.01, "SNonUSJ e"], [0.02, "326030GN"], [0.01, "DuAnI IN"], [0.0, "1070'TT"], [0.0, "O0&"], [0.04, "12LOJAm"]]}
+{"file": "ceramic/ceramic_19.jpg", "codes": [{"code": "48096", "conf": 1.0}, {"code": "48099", "conf": 0.98}, {"code": "4807", "conf": 0.83}, {"code": "4097", "conf": 0.53}], "all_texts": [[0.1, "4605"], [0.0, "48粟母缸"], [0.98, "48099"], [0.99, "480975"], [0.53, "4097"], [1.0, "48096"], [0.83, "4807"]]}
+{"file": "ceramic/ceramic_20.jpg", "codes": [{"code": "48030", "conf": 0.98}, {"code": "48050", "conf": 0.98}, {"code": "48045", "conf": 0.77}, {"code": "5007", "conf": 0.65}], "all_texts": [[0.12, "Chp SI2U }"], [0.1, "49, SRII"], [0.01, "SNoUUs 5124##:"], [0.11, "306 \" 306mm"], [0.02, "Quantlty 罔量"], [0.2, "10.7N1平方m"], [0.02, "Uo"], [0.01, "13NC1NA"]]}
+{"file": "ceramic/ceramic_22.jpg", "codes": [{"code": "4803", "conf": 0.99}], "all_texts": [[0.17, "5802"], [0.63, "4802-5"], [0.13, "102-6"], [0.16, "4802"], [0.0, "2UN"], [0.08, "SHU5"], [0.45, "4H-"], [0.99, "4803"]]}
+{"file": "ceramic/ceramic_24.jpg", "codes": [{"code": "306", "conf": 0.79}], "all_texts": [[0.11, "4007-5407"], [0.75, "4807-567"], [0.09, "1608-569"], [0.49, "4809-567"], [0.02, "Chlp SI2e r):"], [0.31, "AIT"], [0.23, "Shaec"], [0.03, "SIZe戌长"]]}
+{"file": "ceramic/ceramic_25.jpg", "codes": [{"code": "5203", "conf": 0.99}, {"code": "5206", "conf": 0.95}], "all_texts": [[0.01, "CMO SITuNI"], [0.05, "50,72JmT"], [0.03, "1094 1 AT"], [0.01, "Uo"], [0.0, "3C4"], [0.28, "5203"], [0.01, "o"], [0.37, "s2ol"]]}
+{"file": "ceramic/ceramic_26.jpg", "codes": [], "all_texts": [[0.09, "Chp Siegr"], [0.03, "5 ,SGIMI"], [0.25, "Ouanbl 用"], [0.03, "60片平hm GW 重量"], [0.18, "TBKCIThm"]]}
+{"file": "ceramic/ceramic_27.jpg", "codes": [{"code": "1007", "conf": 1.0}, {"code": "1008", "conf": 1.0}, {"code": "1301", "conf": 1.0}, {"code": "502", "conf": 1.0}], "all_texts": [[0.99, "9812"], [0.97, "9810"], [0.88, "1006"], [1.0, "1007"], [1.0, "1008"], [0.87, "1009"], [0.99, "981"], [1.0, "985001"]]}
+{"file": "ceramic/ceramic_30.jpg", "codes": [{"code": "8905", "conf": 0.98}, {"code": "8901", "conf": 0.97}, {"code": "8902", "conf": 0.88}, {"code": "6903", "conf": 0.51}], "all_texts": [[0.97, "8901"], [0.88, "8902"], [0.51, "6903"], [0.98, "8905"], [0.49, "Chp SIeR"], [0.22, "1S Nmm"], [0.02, "Quantlty}量"], [0.02, "36片1平方m G. 重鼍"]]}
+{"file": "ceramic/ceramic_32.jpg", "codes": [], "all_texts": [[0.06, "Chlo SI2aIH"], [0.01, "O IJNMT"], [0.04, "Shoos SIZ0A长"], [0.09, "264. ZMgmm"], [0.18, "Quantlly 用量"], [0.01, "15骘1平方"], [0.01, "C 重量"], [0.28, "22KGI平方m"]]}
+{"file": "ceramic/ceramic_34.jpg", "codes": [], "all_texts": [[0.97, "拼图定制"]]}
+{"file": "ceramic/ceramic_35.jpg", "codes": [{"code": "59591", "conf": 0.77}, {"code": "59502", "conf": 0.7}, {"code": "59507", "conf": 0.47}], "all_texts": [[0.77, "59591"], [0.09, "CS"], [0.7, "59502"], [0.18, "SSS08"], [0.47, "59507"], [0.12, "5AC01"], [0.24, "SSO0"], [0.17, "59507"]]}
+{"file": "ceramic/ceramic_36.jpg", "codes": [{"code": "58506", "conf": 1.0}, {"code": "58520", "conf": 0.99}, {"code": "58515", "conf": 0.99}, {"code": "58513", "conf": 0.97}], "all_texts": [[0.99, "58520"], [0.56, "58519"], [0.76, "56517"], [0.93, "58505"], [1.0, "58506"], [0.97, "58513"], [0.32, "5851+"], [0.72, "58516"]]}
+{"file": "ceramic/ceramic_37.jpg", "codes": [{"code": "26", "conf": 0.55}], "all_texts": [[0.02, "Chlp 5120 r坠"], [0.12, "!LRmC"], [0.07, "144445/70"], [0.0, "兵]"], [0.55, "26"], [0.13, "Ouanllly 用量; |+片1平方m"], [0.05, "G4"], [0.12, "15.4615"]]}
+{"file": "ceramic/ceramic_39.jpg", "codes": [{"code": "1751", "conf": 0.48}], "all_texts": [[0.01, "Hpce"], [0.0, "["], [0.03, "ChNST"], [0.09, "UUTm"], [0.13, "117507"], [0.14, "107408"], [0.19, "117411"], [0.04, "4"]]}
+{"file": "ceramic/ceramic_40.jpg", "codes": [{"code": "I0845", "conf": 0.39}], "all_texts": [[0.12, "1044401"], [0.12, "CR"], [0.39, "ITHE"], [0.25, "117504"], [0.11, "077501"], [0.01, "胤51"], [0.12, "Mtlkcty"], [0.14, "0J2603"]]}
+{"file": "ceramic/ceramic_41.jpg", "codes": [], "all_texts": [[0.01, "@RRIRIR@llllllPORRRllu"], [0.23, "TC O]"], [0.6, "TC 0"], [0.69, "TCOC"], [0.0, "『『甲『甲『『『#『#]"], [0.19, "9070"], [0.88, "1"]]}
+{"file": "ceramic/ceramic_42.jpg", "codes": [], "all_texts": [[0.05, "2507-4147C"], [0.01, "TOA TMII"], [0.02, "21011N-14IYC"], [0.58, "4822.2+3+11YG"], [0.34, "4822-4+10+6817G"], [0.02, "010"], [0.03, "01!1"], [0.21, "15511171015"]]}
+{"file": "ceramic/ceramic_43.jpg", "codes": [], "all_texts": [[0.08, "ChSIN8"], [0.37, "Nmm"], [0.1, "5401,,SIT0"], [0.03, "314k2OCMm"], [0.01, "[MTRT"], [0.2, "5AVTTr"], [0.06, "I?AGISST"], [0.15, "C(II{I"]]}
+{"file": "crystal-6mm/c6_6厘幻彩_00.jpg", "codes": [], "all_texts": [[0.37, "T 2o0"]]}
+{"file": "crystal-6mm/c6_6厘幻彩_00_hi.jpg", "codes": [], "all_texts": [[0.1, "HE 2o0"]]}
+{"file": "crystal-6mm/c6_6厘幻彩_01.jpg", "codes": [], "all_texts": [[0.21, "T 2o0z"], [0.02, "4"]]}
+{"file": "crystal-6mm/c6_6厘幻彩_01_hi.jpg", "codes": [], "all_texts": [[0.34, "T 7o02"]]}
+{"file": "crystal-6mm/c6_6厘幻彩_02.jpg", "codes": [], "all_texts": [[0.13, "斥2003"]]}
+{"file": "crystal-6mm/c6_6厘幻彩_02_hi.jpg", "codes": [], "all_texts": [[0.24, "'2003"]]}
+{"file": "crystal-6mm/c6_6厘幻彩_03.jpg", "codes": [], "all_texts": [[0.15, "斥 2004"]]}
+{"file": "crystal-6mm/c6_6厘幻彩_03_hi.jpg", "codes": [{"code": "T2004", "conf": 0.52}], "all_texts": [[0.52, "T2004"]]}
+{"file": "crystal-6mm/c6_6厘幻彩_04.jpg", "codes": [{"code": "FF2005", "conf": 0.41}], "all_texts": [[0.41, "FF 2005"]]}
+{"file": "crystal-6mm/c6_6厘幻彩_04_hi.jpg", "codes": [], "all_texts": [[0.07, "Hr 2008"]]}
+{"file": "crystal-6mm/c6_6厘幻彩_05.jpg", "codes": [], "all_texts": [[0.25, "TT 2006"]]}
+{"file": "crystal-6mm/c6_6厘幻彩_05_hi.jpg", "codes": [{"code": "T2006", "conf": 0.3}], "all_texts": [[0.3, "T 2006"]]}
+{"file": "crystal-6mm/c6_6厘幻彩_06.jpg", "codes": [], "all_texts": [[0.1, "T 200]"]]}
+{"file": "crystal-6mm/c6_6厘幻彩_06_hi.jpg", "codes": [], "all_texts": [[0.2, "T 20]"]]}
+{"file": "crystal-6mm/c6_6厘幻彩_07.jpg", "codes": [], "all_texts": [[0.21, "TE 2008"], [0.19, "Oe"]]}
+{"file": "crystal-6mm/c6_6厘幻彩_07_hi.jpg", "codes": [], "all_texts": [[0.16, "Tr2008"]]}
+{"file": "crystal-6mm/c6_6厘幻彩_08.jpg", "codes": [], "all_texts": [[0.25, "EE 2o09"]]}
+{"file": "crystal-6mm/c6_6厘幻彩_08_hi.jpg", "codes": [], "all_texts": [[0.4, "FE 2oo9"]]}
+{"file": "crystal-6mm/c6_6厘幻彩_09.jpg", "codes": [], "all_texts": [[0.09, "TE 2o lo"], [0.12, "NUC"]]}
+{"file": "crystal-6mm/c6_6厘幻彩_09_hi.jpg", "codes": [], "all_texts": [[0.29, "FT 20 |0"]]}
+{"file": "crystal-6mm/c6_6厘幻彩_10.jpg", "codes": [], "all_texts": [[0.03, "T Ioll"]]}
+{"file": "crystal-6mm/c6_6厘幻彩_10_hi.jpg", "codes": [], "all_texts": [[0.06, "fE"], [0.27, "D11"]]}
+{"file": "crystal-6mm/c6_6厘幻彩_11.jpg", "codes": [], "all_texts": [[0.11, "T Dn"]]}
+{"file": "crystal-6mm/c6_6厘幻彩_11_hi.jpg", "codes": [], "all_texts": [[0.04, "T 2Iz"]]}
+{"file": "crystal-6mm/c6_6厘幻彩_12.jpg", "codes": [], "all_texts": [[0.04, "压2013"]]}
+{"file": "crystal-6mm/c6_6厘幻彩_12_hi.jpg", "codes": [], "all_texts": [[0.02, "斥70I3"]]}
+{"file": "crystal-6mm/c6_6厘幻彩_13.jpg", "codes": [], "all_texts": [[0.13, "HE 2o1I4"]]}
+{"file": "crystal-6mm/c6_6厘幻彩_13_hi.jpg", "codes": [], "all_texts": [[0.34, "FE 2o14"]]}
+{"file": "crystal-6mm/c6_6厘幻彩_14.jpg", "codes": [], "all_texts": [[0.0, "- 2吵"]]}
+{"file": "crystal-6mm/c6_6厘幻彩_14_hi.jpg", "codes": [], "all_texts": [[0.01, "~20止"]]}
+{"file": "crystal-6mm/c6_6厘幻彩_15.jpg", "codes": [], "all_texts": [[0.05, "f"], [0.14, "296"]]}
+{"file": "crystal-6mm/c6_6厘幻彩_15_hi.jpg", "codes": [], "all_texts": [[0.4, "fE 20b"]]}
+{"file": "crystal-6mm/c6_6厘幻彩_16.jpg", "codes": [], "all_texts": [[0.19, "T 2o17"]]}
+{"file": "crystal-6mm/c6_6厘幻彩_16_hi.jpg", "codes": [], "all_texts": [[0.14, "阼2o17"]]}
+{"file": "crystal-6mm/c6_6厘幻彩_17.jpg", "codes": [], "all_texts": [[0.2, "FF 29/8"]]}
+{"file": "crystal-6mm/c6_6厘幻彩_17_hi.jpg", "codes": [], "all_texts": [[0.26, "F 29/8"]]}
+{"file": "crystal-6mm/c6_6厘幻彩_18.jpg", "codes": [{"code": "FE2019", "conf": 0.57}], "all_texts": [[0.57, "FE 2019"]]}
+{"file": "crystal-6mm/c6_6厘幻彩_18_hi.jpg", "codes": [{"code": "T2019", "conf": 0.35}], "all_texts": [[0.35, "T 2019"]]}
+{"file": "crystal-6mm/c6_6厘幻彩_19.jpg", "codes": [], "all_texts": [[0.18, "TE 2020"]]}
+{"file": "crystal-6mm/c6_6厘幻彩_19_hi.jpg", "codes": [], "all_texts": [[0.23, "Er 2020"]]}
+{"file": "crystal-6mm/c6_6厘幻彩_20.jpg", "codes": [{"code": "2021", "conf": 0.91}], "all_texts": [[0.91, "2021"]]}
+{"file": "crystal-6mm/c6_6厘幻彩_20_hi.jpg", "codes": [{"code": "FE2021", "conf": 0.7}], "all_texts": [[0.7, "FE 2021"]]}
+{"file": "crystal-6mm/c6_6厘幻彩_21.jpg", "codes": [], "all_texts": [[0.06, "HF 222"]]}
+{"file": "crystal-6mm/c6_6厘幻彩_21_hi.jpg", "codes": [], "all_texts": [[0.24, "TF 222"]]}
+{"file": "crystal-6mm/c6_6厘幻彩_22.jpg", "codes": [], "all_texts": [[0.42, "HE2z3"]]}
+{"file": "crystal-6mm/c6_6厘幻彩_22_hi.jpg", "codes": [], "all_texts": [[0.47, "FE2z3"]]}
+{"file": "crystal-6mm/c6_6厘幻彩_23.jpg", "codes": [], "all_texts": [[0.1, "TE2X"]]}
+{"file": "crystal-6mm/c6_6厘幻彩_23_hi.jpg", "codes": [], "all_texts": [[0.24, "TE2OD"]]}
+{"file": "crystal-6mm/c6_6厘幻彩_24.jpg", "codes": [{"code": "TT2025", "conf": 0.48}], "all_texts": [[0.48, "TT 2025"]]}
+{"file": "crystal-6mm/c6_6厘幻彩_24_hi.jpg", "codes": [], "all_texts": [[0.05, "- 2025"]]}
+{"file": "crystal-6mm/c6_6厘幻彩_25.jpg", "codes": [], "all_texts": [[0.32, "FF 20Z6"]]}
+{"file": "crystal-6mm/c6_6厘幻彩_25_hi.jpg", "codes": [{"code": "FE2026", "conf": 0.73}], "all_texts": [[0.73, "FE 2026"]]}
+{"file": "crystal-6mm/c6_6厘幻彩_26.jpg", "codes": [], "all_texts": [[0.03, "正2027"]]}
+{"file": "crystal-6mm/c6_6厘幻彩_26_hi.jpg", "codes": [], "all_texts": [[0.11, "正2027"]]}
+{"file": "crystal-6mm/c6_6厘幻彩_27.jpg", "codes": [{"code": "TT2028", "conf": 0.52}], "all_texts": [[0.52, "TT 2028"]]}
+{"file": "crystal-6mm/c6_6厘幻彩_27_hi.jpg", "codes": [{"code": "T2028", "conf": 0.67}], "all_texts": [[0.67, "T 2028"]]}
+{"file": "crystal-6mm/c6_6厘幻彩_28.jpg", "codes": [{"code": "TE2029", "conf": 0.38}], "all_texts": [[0.38, "TE 2029"]]}
+{"file": "crystal-6mm/c6_6厘幻彩_28_hi.jpg", "codes": [], "all_texts": [[0.23, "TE 2029"]]}
+{"file": "crystal-6mm/c6_6厘幻彩_29.jpg", "codes": [], "all_texts": [[0.09, "TF230"]]}
+{"file": "crystal-6mm/c6_6厘幻彩_29_hi.jpg", "codes": [], "all_texts": [[0.16, "T2p3"]]}
+{"file": "crystal-6mm/c6_6厘幻彩_30.jpg", "codes": [], "all_texts": [[0.08, "HE2B |"]]}
+{"file": "crystal-6mm/c6_6厘幻彩_30_hi.jpg", "codes": [], "all_texts": [[0.18, "T2B |"]]}
+{"file": "crystal-6mm/c6_6厘幻彩_31.jpg", "codes": [], "all_texts": [[0.05, "S232"]]}
+{"file": "crystal-6mm/c6_6厘幻彩_31_hi.jpg", "codes": [], "all_texts": [[0.04, "珏2032"]]}
+{"file": "crystal-6mm/c6_6厘幻彩_32.jpg", "codes": [], "all_texts": [[0.06, "12033"], [0.34, "0U"]]}
+{"file": "crystal-6mm/c6_6厘幻彩_32_hi.jpg", "codes": [], "all_texts": [[0.03, "[2033"]]}
+{"file": "crystal-6mm/c6_6厘幻彩_33.jpg", "codes": [], "all_texts": [[0.01, "平26"]]}
+{"file": "crystal-6mm/c6_6厘幻彩_33_hi.jpg", "codes": [], "all_texts": [[0.01, "~26"]]}
+{"file": "crystal-6mm/c6_6厘幻彩_34.jpg", "codes": [], "all_texts": [[0.22, "压2035"]]}
+{"file": "crystal-6mm/c6_6厘幻彩_34_hi.jpg", "codes": [], "all_texts": [[0.37, "压2035"]]}
+{"file": "crystal-6mm/c6_6厘幻彩_35.jpg", "codes": [], "all_texts": [[0.52, "压2036"]]}
+{"file": "crystal-6mm/c6_6厘幻彩_35_hi.jpg", "codes": [], "all_texts": [[0.03, "压2036"]]}
+{"file": "crystal-6mm/c6_6厘幻彩_36.jpg", "codes": [], "all_texts": [[0.12, "TE2037"]]}
+{"file": "crystal-6mm/c6_6厘幻彩_36_hi.jpg", "codes": [], "all_texts": [[0.13, "T203"]]}
+{"file": "crystal-6mm/c6_6厘幻彩_37.jpg", "codes": [], "all_texts": [[0.27, "r2o39"]]}
+{"file": "crystal-6mm/c6_6厘幻彩_37_hi.jpg", "codes": [], "all_texts": [[0.05, "阼2039"]]}
+{"file": "crystal-6mm/c6_6厘幻彩_38.jpg", "codes": [], "all_texts": [[0.54, "FF ao4o"]]}
+{"file": "crystal-6mm/c6_6厘幻彩_38_hi.jpg", "codes": [], "all_texts": [[0.42, "FFao4o"]]}
+{"file": "crystal-6mm/c6_6厘幻彩_39.jpg", "codes": [{"code": "FFzo41", "conf": 0.67}], "all_texts": [[0.67, "FFzo41"]]}
+{"file": "crystal-6mm/c6_6厘幻彩_39_hi.jpg", "codes": [{"code": "FFzo41", "conf": 0.46}], "all_texts": [[0.46, "FFzo41"]]}
+{"file": "crystal-pool/crystal_pool_a_01.jpg", "codes": [{"code": "YC04", "conf": 0.84}, {"code": "YC02", "conf": 0.71}], "all_texts": [[0.82, "SWIMMING POOLGLASS MOSAIC"], [0.9, "泳池马赛克"], [0.46, "YCO1"], [0.71, "YC02"], [0.54, "YCO3"], [0.84, "YC04"]]}
+{"file": "crystal-pool/crystal_pool_a_02.jpg", "codes": [{"code": "YC06", "conf": 0.86}, {"code": "YC05", "conf": 0.74}], "all_texts": [[0.74, "YC 05"], [0.86, "YC 06"]]}
+{"file": "crystal-pool/crystal_pool_a_03.jpg", "codes": [{"code": "YC07", "conf": 0.66}, {"code": "YC08", "conf": 0.54}], "all_texts": [[0.66, "YC07"], [0.54, "YC08"]]}
+{"file": "crystal-pool/crystal_pool_a_04.jpg", "codes": [{"code": "MDS304", "conf": 0.94}, {"code": "MDS303", "conf": 0.91}, {"code": "NDS204", "conf": 0.8}, {"code": "MDS201", "conf": 0.78}], "all_texts": [[0.78, "MDS201"], [0.6, "NDS203"], [0.44, "MDS202"], [0.8, "NDS204"], [0.7, "MDS301"], [0.91, "MDS303"], [0.75, "MDS302"], [0.94, "MDS304"]]}
+{"file": "crystal-pool/crystal_pool_a_06.jpg", "codes": [{"code": "T6704", "conf": 0.96}, {"code": "T6208", "conf": 0.95}, {"code": "T6308", "conf": 0.91}, {"code": "T6405", "conf": 0.87}], "all_texts": [[0.91, "T6308"], [0.68, "TG3OSA"], [0.95, "TG3O4A"], [0.98, "TG3O2A"], [0.95, "T6208"], [0.69, "TG2O5A"], [0.94, "TG2O4A"], [0.83, "TG2O2A"]]}
+{"file": "crystal-pool/crystal_pool_a_09.jpg", "codes": [{"code": "JH041", "conf": 0.98}, {"code": "JH039", "conf": 0.95}, {"code": "JH043", "conf": 0.94}, {"code": "JH040", "conf": 0.64}], "all_texts": [[0.95, "JH039"], [0.64, "JH040"], [0.98, "JH041"], [0.94, "JH043"]]}
+{"file": "crystal-pool/crystal_pool_a_10.jpg", "codes": [{"code": "JH007", "conf": 0.99}, {"code": "MSH012", "conf": 0.98}, {"code": "JH005", "conf": 0.95}, {"code": "MSH013", "conf": 0.86}], "all_texts": [[0.0, "薹蹇鼍"], [0.47, "JHO04"], [0.95, "JH005"], [0.43, "JHOOG"], [0.99, "JH007"], [0.63, "MSHO10"], [0.69, "MSH011"], [0.98, "MSH012"]]}
+{"file": "crystal-pool/crystal_pool_b_01.jpg", "codes": [], "all_texts": [[0.19, "the tlorot"], [0.58, "Outslde"], [0.8, "Inslde"], [0.64, "onthe Toor"], [0.34, "I shower room"], [0.16, "ShOWeTroom Ioor"], [0.68, "swimmng pool"], [0.55, "Commerclal"]]}
+{"file": "crystal-pool/crystal_pool_b_03.jpg", "codes": [], "all_texts": [[0.59, "the Iloorol"], [0.59, "Outslde"], [0.8, "Inslde"], [0.36, "onthe Aoor"], [0.36, "I shower room"], [0.62, "shower room floor"], [0.82, "swimming pool"], [0.69, "commercial ouilding"]]}
+{"file": "crystal-pool/crystal_pool_b_04.jpg", "codes": [], "all_texts": [[0.5, "Outside"], [0.86, "Inslde"], [0.51, "on the Iloor"], [0.39, "the Horor"], [0.26, "I Shower room"], [0.46, "ShOWer room Iloor"], [0.4, "swimmng pool"], [0.5, "commerclal buildllng"]]}
+{"file": "crystal-pool/crystal_pool_b_06.jpg", "codes": [], "all_texts": [[0.53, "the foorof"], [0.59, "Outslde"], [0.96, "Inslde"], [0.31, "on the Tloor"], [0.6, "building"], [0.58, "In shower room"], [0.36, "shower room Hloor"], [0.49, "swlmming pool"]]}
+{"file": "crystal-pool/crystal_pool_b_07.jpg", "codes": [], "all_texts": [[0.62, "Outslde"], [0.98, "Inslde"], [0.27, "on the Iloor"], [0.18, "fhe Horot"], [0.29, "I ShoweT Toom"], [0.84, "Shower room Iloor"], [0.49, "swimmng pool"], [0.43, "commercial buildling"]]}
+{"file": "crystal-pool/crystal_pool_b_08.jpg", "codes": [{"code": "T6306", "conf": 0.83}, {"code": "T6304", "conf": 0.83}, {"code": "T6301", "conf": 0.77}, {"code": "T6303", "conf": 0.68}], "all_texts": [[0.61, "T6305"], [0.83, "T6306"], [0.83, "T6304"], [0.68, "T6303"], [0.29, "T6302"], [0.77, "T6301"], [0.65, "T6205"], [0.57, "TG204"]]}
+{"file": "glass/glass_cloud_01.jpg", "codes": [], "all_texts": [[0.53, "FC2"]]}
+{"file": "glass/glass_cloud_02.jpg", "codes": [{"code": "FC003", "conf": 0.4}], "all_texts": [[0.4, "FC003"]]}
+{"file": "glass/glass_cloud_03.jpg", "codes": [], "all_texts": [[0.45, "FCO4"]]}
+{"file": "glass/glass_cloud_04.jpg", "codes": [], "all_texts": [[0.26, "FCOO5"]]}
+{"file": "glass/glass_cloud_05.jpg", "codes": [], "all_texts": [[0.17, "FCNG"]]}
+{"file": "glass/glass_cloud_07.jpg", "codes": [], "all_texts": [[0.32, "FCOB"]]}
+{"file": "glass/glass_cloud_11.jpg", "codes": [], "all_texts": [[0.27, "[C012"]]}
+{"file": "glass/glass_cloud_12.jpg", "codes": [], "all_texts": [[0.69, "FC0I3"]]}
+{"file": "glass/glass_cloud_13.jpg", "codes": [{"code": "FC04", "conf": 0.58}], "all_texts": [[0.58, "FC04"]]}
+{"file": "glass/glass_cloud_14.jpg", "codes": [], "all_texts": [[0.14, "FC05"]]}
+{"file": "glass/glass_diamond_01.jpg", "codes": [], "all_texts": [[0.9, "MOSAIC"]]}
+{"file": "glass/glass_diamond_02.jpg", "codes": [], "all_texts": [[0.97, "101001"]]}
+{"file": "glass/glass_diamond_02.jpg", "codes": [], "all_texts": [[0.97, "101001"]]}
+{"file": "glass/glass_diamond_03.jpg", "codes": [], "all_texts": [[0.65, "101002"]]}
+{"file": "glass/glass_diamond_03.jpg", "codes": [], "all_texts": [[0.65, "101002"]]}
+{"file": "glass/glass_diamond_04.jpg", "codes": [], "all_texts": [[0.58, "101003"]]}
+{"file": "glass/glass_diamond_04.jpg", "codes": [], "all_texts": [[0.58, "101003"]]}
+{"file": "glass/glass_diamond_05.jpg", "codes": [], "all_texts": [[0.69, "101004"]]}
+{"file": "glass/glass_diamond_05.jpg", "codes": [], "all_texts": [[0.69, "101004"]]}
+{"file": "glass/glass_diamond_06.jpg", "codes": [], "all_texts": [[0.41, "("], [0.75, "101005"]]}
+{"file": "glass/glass_diamond_06.jpg", "codes": [], "all_texts": [[0.41, "("], [0.75, "101005"]]}
+{"file": "glass/glass_diamond_07.jpg", "codes": [], "all_texts": [[0.54, "1L01006"]]}
+{"file": "glass/glass_diamond_07.jpg", "codes": [], "all_texts": [[0.54, "1L01006"]]}
+{"file": "glass/glass_diamond_08.jpg", "codes": [], "all_texts": [[0.0, "溉"], [0.48, "101007"]]}
+{"file": "glass/glass_diamond_08.jpg", "codes": [], "all_texts": [[0.0, "溉"], [0.48, "101007"]]}
+{"file": "glass/glass_diamond_09.jpg", "codes": [], "all_texts": [[0.75, "101008"]]}
+{"file": "glass/glass_diamond_09.jpg", "codes": [], "all_texts": [[0.75, "101008"]]}
+{"file": "glass/glass_diamond_10.jpg", "codes": [], "all_texts": [[0.73, "101009"]]}
+{"file": "glass/glass_diamond_10.jpg", "codes": [], "all_texts": [[0.73, "101009"]]}
+{"file": "glass/glass_diamond_11.jpg", "codes": [], "all_texts": [[0.77, "101010"]]}
+{"file": "glass/glass_diamond_11.jpg", "codes": [], "all_texts": [[0.77, "101010"]]}
+{"file": "glass/glass_diamond_12.jpg", "codes": [], "all_texts": [[0.9, "儿01011"], [0.98, "101012"]]}
+{"file": "glass/glass_diamond_12.jpg", "codes": [], "all_texts": [[0.9, "儿01011"], [0.98, "101012"]]}
+{"file": "glass/glass_diamond_13.jpg", "codes": [], "all_texts": [[0.97, "101013"], [0.99, "101014"]]}
+{"file": "glass/glass_diamond_13.jpg", "codes": [], "all_texts": [[0.97, "101013"], [0.99, "101014"]]}
+{"file": "glass/glass_diamond_14.jpg", "codes": [], "all_texts": [[0.72, "1L01015"]]}
+{"file": "glass/glass_diamond_14.jpg", "codes": [], "all_texts": [[0.72, "1L01015"]]}
+{"file": "glass/glass_goldline_01.jpg", "codes": [{"code": "FE081", "conf": 0.88}], "all_texts": [[0.88, "FE081"]]}
+{"file": "glass/glass_goldline_01.jpg", "codes": [{"code": "FE081", "conf": 0.88}], "all_texts": [[0.88, "FE081"]]}
+{"file": "glass/glass_goldline_03.jpg", "codes": [], "all_texts": [[0.16, "36-瓯709"]]}
+{"file": "glass/glass_goldline_03.jpg", "codes": [], "all_texts": [[0.16, "36-瓯709"]]}
+{"file": "glass/glass_goldline_12.jpg", "codes": [{"code": "E304", "conf": 0.93}], "all_texts": [[0.93, "E304"]]}
+{"file": "glass/glass_goldline_12.jpg", "codes": [{"code": "E304", "conf": 0.93}], "all_texts": [[0.93, "E304"]]}
+{"file": "glass/glass_hexagon_01.jpg", "codes": [], "all_texts": [[0.0, "C"], [0.26, "Fosnan C-Tlle Bulldlng Materlal Co.Lid。"]]}
+{"file": "glass/glass_hexagon_01.jpg", "codes": [], "all_texts": [[0.0, "C"], [0.26, "Fosnan C-Tlle Bulldlng Materlal Co.Lid。"]]}
+{"file": "glass/glass_hexagon_02.jpg", "codes": [{"code": "HE404", "conf": 0.47}], "all_texts": [[0.47, "HE404"], [0.59, "HE3O7"]]}
+{"file": "glass/glass_hexagon_02.jpg", "codes": [{"code": "HE404", "conf": 0.47}], "all_texts": [[0.47, "HE404"], [0.59, "HE3O7"]]}
+{"file": "glass/glass_hexagon_03.jpg", "codes": [{"code": "331", "conf": 1.0}, {"code": "HE516", "conf": 0.99}, {"code": "HE517", "conf": 0.98}, {"code": "HE515", "conf": 0.97}], "all_texts": [[1.0, "331"], [0.98, "HE517"], [0.99, "HE516"], [0.97, "HE515"]]}
+{"file": "glass/glass_hexagon_03.jpg", "codes": [{"code": "331", "conf": 1.0}, {"code": "HE516", "conf": 0.99}, {"code": "HE517", "conf": 0.98}, {"code": "HE515", "conf": 0.97}], "all_texts": [[1.0, "331"], [0.98, "HE517"], [0.99, "HE516"], [0.97, "HE515"]]}
+{"file": "glass/glass_hexagon_04.jpg", "codes": [{"code": "HE404", "conf": 1.0}, {"code": "HE403", "conf": 0.99}, {"code": "HE310", "conf": 0.98}, {"code": "HE512", "conf": 0.97}], "all_texts": [[1.0, "HE404"], [0.55, "HE408"], [0.98, "HE310"], [0.99, "HE403"], [0.96, "HE511"], [0.97, "HE512"]]}
+{"file": "glass/glass_hexagon_04.jpg", "codes": [{"code": "HE404", "conf": 1.0}, {"code": "HE403", "conf": 0.99}, {"code": "HE310", "conf": 0.98}, {"code": "HE512", "conf": 0.97}], "all_texts": [[1.0, "HE404"], [0.55, "HE408"], [0.98, "HE310"], [0.99, "HE403"], [0.96, "HE511"], [0.97, "HE512"]]}
+{"file": "glass/glass_hexagon_05.jpg", "codes": [{"code": "HE304", "conf": 1.0}, {"code": "HE408", "conf": 0.99}, {"code": "HE307", "conf": 0.98}, {"code": "HE403", "conf": 0.98}], "all_texts": [[0.98, "HE307"], [0.98, "HE403"], [0.99, "HE408"], [0.0, ""], [0.93, "HE308"], [1.0, "HE304"], [0.74, "HE406"], [0.97, "HE514"]]}
+{"file": "glass/glass_hexagon_05.jpg", "codes": [{"code": "HE304", "conf": 1.0}, {"code": "HE408", "conf": 0.99}, {"code": "HE307", "conf": 0.98}, {"code": "HE403", "conf": 0.98}], "all_texts": [[0.98, "HE307"], [0.98, "HE403"], [0.99, "HE408"], [0.0, ""], [0.93, "HE308"], [1.0, "HE304"], [0.74, "HE406"], [0.97, "HE514"]]}
+{"file": "glass/glass_hexagon_06.jpg", "codes": [], "all_texts": [[0.99, "NE1531101"], [0.7, "NE1 531102"]]}
+{"file": "glass/glass_hexagon_06.jpg", "codes": [], "all_texts": [[0.99, "NE1531101"], [0.7, "NE1 531102"]]}
+{"file": "glass/glass_hexagon_07.jpg", "codes": [], "all_texts": [[0.99, "NE1531103"], [0.99, "NE1531104"], [0.7, "一"], [0.2, "46.44"]]}
+{"file": "glass/glass_hexagon_07.jpg", "codes": [], "all_texts": [[0.99, "NE1531103"], [0.99, "NE1531104"], [0.7, "一"], [0.2, "46.44"]]}
+{"file": "glass/glass_hexagon_08.jpg", "codes": [], "all_texts": [[0.99, "NE1531105"], [1.0, "NE1531104"], [0.8, "NE1531106"], [0.01, "N"], [0.99, "NE1531107"], [1.0, "NE1531108"], [0.0, "1"], [0.99, "NE1531109"]]}
+{"file": "glass/glass_hexagon_08.jpg", "codes": [], "all_texts": [[0.99, "NE1531105"], [1.0, "NE1531104"], [0.8, "NE1531106"], [0.01, "N"], [0.99, "NE1531107"], [1.0, "NE1531108"], [0.0, "1"], [0.99, "NE1531109"]]}
+{"file": "glass/glass_hexagon_09.jpg", "codes": [{"code": "HE518", "conf": 0.96}, {"code": "HE519", "conf": 0.93}, {"code": "318", "conf": 0.83}], "all_texts": [[0.83, "318"], [0.96, "HE518"], [0.93, "HE519"]]}
+{"file": "glass/glass_hexagon_09.jpg", "codes": [{"code": "HE518", "conf": 0.96}, {"code": "HE519", "conf": 0.93}, {"code": "318", "conf": 0.83}], "all_texts": [[0.83, "318"], [0.96, "HE518"], [0.93, "HE519"]]}
+{"file": "glass/glass_hexagon_10.jpg", "codes": [{"code": "HE522", "conf": 1.0}, {"code": "HE103", "conf": 0.99}, {"code": "HE521", "conf": 0.94}, {"code": "HE520", "conf": 0.92}], "all_texts": [[1.0, "HE522"], [0.94, "HE521"], [0.92, "HE520"], [0.99, "HE103"]]}
+{"file": "glass/glass_hexagon_10.jpg", "codes": [{"code": "HE522", "conf": 1.0}, {"code": "HE103", "conf": 0.99}, {"code": "HE521", "conf": 0.94}, {"code": "HE520", "conf": 0.92}], "all_texts": [[1.0, "HE522"], [0.94, "HE521"], [0.92, "HE520"], [0.99, "HE103"]]}
+{"file": "glass/glass_hexagon_11.jpg", "codes": [{"code": "HE103", "conf": 1.0}, {"code": "HE102", "conf": 0.99}, {"code": "HE101", "conf": 0.99}, {"code": "318", "conf": 0.94}], "all_texts": [[0.94, "318"], [0.68, "HE106"], [1.0, "HE103"], [0.99, "HE102"], [0.99, "HE101"]]}
+{"file": "glass/glass_hexagon_11.jpg", "codes": [{"code": "HE103", "conf": 1.0}, {"code": "HE102", "conf": 0.99}, {"code": "HE101", "conf": 0.99}, {"code": "318", "conf": 0.94}], "all_texts": [[0.94, "318"], [0.68, "HE106"], [1.0, "HE103"], [0.99, "HE102"], [0.99, "HE101"]]}
+{"file": "glass/glass_hexagon_12.jpg", "codes": [{"code": "318", "conf": 1.0}, {"code": "HE208", "conf": 0.99}, {"code": "HE205", "conf": 0.98}, {"code": "HE110", "conf": 0.93}], "all_texts": [[1.0, "318"], [0.98, "HE205"], [0.0, ""], [0.99, "HE208"], [0.0, "9"], [0.9, "HE523"], [0.93, "HE110"]]}
+{"file": "glass/glass_hexagon_12.jpg", "codes": [{"code": "318", "conf": 1.0}, {"code": "HE208", "conf": 0.99}, {"code": "HE205", "conf": 0.98}, {"code": "HE110", "conf": 0.93}], "all_texts": [[1.0, "318"], [0.98, "HE205"], [0.0, ""], [0.99, "HE208"], [0.0, "9"], [0.9, "HE523"], [0.93, "HE110"]]}
+{"file": "glass/glass_hexagon_13.jpg", "codes": [{"code": "318", "conf": 1.0}, {"code": "HE101", "conf": 0.99}, {"code": "HE105", "conf": 0.99}, {"code": "HE102", "conf": 0.97}], "all_texts": [[1.0, "318"], [0.99, "HE101"], [0.99, "HE105"], [0.0, "_"], [0.97, "HE102"], [0.97, "HE113"]]}
+{"file": "glass/glass_hexagon_13.jpg", "codes": [{"code": "318", "conf": 1.0}, {"code": "HE101", "conf": 0.99}, {"code": "HE105", "conf": 0.99}, {"code": "HE102", "conf": 0.97}], "all_texts": [[1.0, "318"], [0.99, "HE101"], [0.99, "HE105"], [0.0, "_"], [0.97, "HE102"], [0.97, "HE113"]]}
+{"file": "glass/glass_hexagon_14.jpg", "codes": [{"code": "HE101", "conf": 0.99}, {"code": "HE105", "conf": 0.99}, {"code": "HE107", "conf": 0.99}, {"code": "HE204", "conf": 0.99}], "all_texts": [[0.99, "HE101"], [0.99, "HE105"], [0.75, "HE113"], [0.98, "HE102"], [0.98, "HE208"], [0.97, "HE103"], [0.99, "HE107"], [0.93, "HE109"]]}
+{"file": "glass/glass_hexagon_14.jpg", "codes": [{"code": "HE101", "conf": 0.99}, {"code": "HE105", "conf": 0.99}, {"code": "HE107", "conf": 0.99}, {"code": "HE204", "conf": 0.99}], "all_texts": [[0.99, "HE101"], [0.99, "HE105"], [0.75, "HE113"], [0.98, "HE102"], [0.98, "HE208"], [0.97, "HE103"], [0.99, "HE107"], [0.93, "HE109"]]}
+{"file": "glass/glass_hotmelt_nosand_01.jpg", "codes": [], "all_texts": []}
+{"file": "glass/glass_hotmelt_nosand_01.jpg", "codes": [], "all_texts": []}
+{"file": "glass/glass_hotmelt_nosand_03.jpg", "codes": [], "all_texts": [[0.28, "R001"]]}
+{"file": "glass/glass_hotmelt_nosand_03.jpg", "codes": [], "all_texts": [[0.28, "R001"]]}
+{"file": "glass/glass_hotmelt_nosand_08.jpg", "codes": [], "all_texts": [[0.28, "R006"]]}
+{"file": "glass/glass_hotmelt_nosand_08.jpg", "codes": [], "all_texts": [[0.28, "R006"]]}
+{"file": "glass/glass_hotmelt_nosand_11.jpg", "codes": [{"code": "F009", "conf": 0.4}], "all_texts": [[0.4, "F009"]]}
+{"file": "glass/glass_hotmelt_nosand_11.jpg", "codes": [{"code": "F009", "conf": 0.4}], "all_texts": [[0.4, "F009"]]}
+{"file": "glass/glass_hotmelt_sand_02.jpg", "codes": [], "all_texts": [[0.94, "A08S"]]}
+{"file": "glass/glass_hotmelt_sand_02.jpg", "codes": [], "all_texts": [[0.94, "A08S"]]}
+{"file": "glass/glass_hotmelt_sand_03.jpg", "codes": [], "all_texts": [[0.67, "A2OS"]]}
+{"file": "glass/glass_hotmelt_sand_03.jpg", "codes": [], "all_texts": [[0.67, "A2OS"]]}
+{"file": "glass/glass_hotmelt_sand_05.jpg", "codes": [{"code": "A525", "conf": 0.54}], "all_texts": [[0.54, "A525"]]}
+{"file": "glass/glass_hotmelt_sand_05.jpg", "codes": [{"code": "A525", "conf": 0.54}], "all_texts": [[0.54, "A525"]]}
+{"file": "glass/glass_hotmelt_sand_06.jpg", "codes": [{"code": "A535", "conf": 0.51}], "all_texts": [[0.51, "A535"]]}
+{"file": "glass/glass_hotmelt_sand_06.jpg", "codes": [{"code": "A535", "conf": 0.51}], "all_texts": [[0.51, "A535"]]}
+{"file": "glass/glass_hotmelt_sand_07.jpg", "codes": [{"code": "8308", "conf": 0.54}], "all_texts": [[0.54, "8308"]]}
+{"file": "glass/glass_hotmelt_sand_07.jpg", "codes": [{"code": "8308", "conf": 0.54}], "all_texts": [[0.54, "8308"]]}
+{"file": "glass/glass_hotmelt_sand_10.jpg", "codes": [{"code": "C645", "conf": 0.46}], "all_texts": [[0.46, "C645"]]}
+{"file": "glass/glass_hotmelt_sand_10.jpg", "codes": [{"code": "C645", "conf": 0.46}], "all_texts": [[0.46, "C645"]]}
+{"file": "glass/glass_hotmelt_sand_11.jpg", "codes": [{"code": "5001", "conf": 0.76}], "all_texts": [[0.76, "5001"]]}
+{"file": "glass/glass_hotmelt_sand_11.jpg", "codes": [{"code": "5001", "conf": 0.76}], "all_texts": [[0.76, "5001"]]}
+{"file": "glass/glass_hotmelt_sand_12.jpg", "codes": [{"code": "5002", "conf": 0.97}], "all_texts": [[0.97, "5002"]]}
+{"file": "glass/glass_hotmelt_sand_12.jpg", "codes": [{"code": "5002", "conf": 0.97}], "all_texts": [[0.97, "5002"]]}
+{"file": "glass/glass_hotmelt_sand_13.jpg", "codes": [{"code": "5003", "conf": 0.89}], "all_texts": [[0.89, "5003"]]}
+{"file": "glass/glass_hotmelt_sand_13.jpg", "codes": [{"code": "5003", "conf": 0.89}], "all_texts": [[0.89, "5003"]]}
+{"file": "glass/glass_hotmelt_sand_14.jpg", "codes": [{"code": "S004", "conf": 0.48}], "all_texts": [[0.48, "S004"]]}
+{"file": "glass/glass_hotmelt_sand_14.jpg", "codes": [{"code": "S004", "conf": 0.48}], "all_texts": [[0.48, "S004"]]}
+{"file": "glass/glass_iceflower_01.jpg", "codes": [{"code": "BH001", "conf": 0.94}], "all_texts": [[0.94, "BH001"]]}
+{"file": "glass/glass_iceflower_01.jpg", "codes": [{"code": "BH001", "conf": 0.94}], "all_texts": [[0.94, "BH001"]]}
+{"file": "glass/glass_iceflower_02.jpg", "codes": [{"code": "BH002", "conf": 0.82}], "all_texts": [[0.82, "BH002"]]}
+{"file": "glass/glass_iceflower_02.jpg", "codes": [{"code": "BH002", "conf": 0.82}], "all_texts": [[0.82, "BH002"]]}
+{"file": "glass/glass_iceflower_03.jpg", "codes": [{"code": "BH003", "conf": 0.54}], "all_texts": [[0.54, "BH003"]]}
+{"file": "glass/glass_iceflower_03.jpg", "codes": [{"code": "BH003", "conf": 0.54}], "all_texts": [[0.54, "BH003"]]}
+{"file": "glass/glass_iceflower_04.jpg", "codes": [{"code": "BH004", "conf": 0.79}], "all_texts": [[0.79, "BH004"]]}
+{"file": "glass/glass_iceflower_04.jpg", "codes": [{"code": "BH004", "conf": 0.79}], "all_texts": [[0.79, "BH004"]]}
+{"file": "glass/glass_iceflower_05.jpg", "codes": [{"code": "BH005", "conf": 0.66}], "all_texts": [[0.66, "BH005"]]}
+{"file": "glass/glass_iceflower_05.jpg", "codes": [{"code": "BH005", "conf": 0.66}], "all_texts": [[0.66, "BH005"]]}
+{"file": "glass/glass_iceflower_06.jpg", "codes": [{"code": "BH006", "conf": 0.7}], "all_texts": [[0.7, "BH006"]]}
+{"file": "glass/glass_iceflower_06.jpg", "codes": [{"code": "BH006", "conf": 0.7}], "all_texts": [[0.7, "BH006"]]}
+{"file": "glass/glass_iceflower_07.jpg", "codes": [{"code": "BH007", "conf": 0.98}], "all_texts": [[0.98, "BH007"]]}
+{"file": "glass/glass_iceflower_07.jpg", "codes": [{"code": "BH007", "conf": 0.98}], "all_texts": [[0.98, "BH007"]]}
+{"file": "glass/glass_iceflower_08.jpg", "codes": [{"code": "BH008", "conf": 0.93}], "all_texts": [[0.93, "BH008"]]}
+{"file": "glass/glass_iceflower_08.jpg", "codes": [{"code": "BH008", "conf": 0.93}], "all_texts": [[0.93, "BH008"]]}
+{"file": "glass/glass_iceflower_09.jpg", "codes": [{"code": "N045", "conf": 0.56}], "all_texts": [[0.58, ".4"], [0.56, "N045"]]}
+{"file": "glass/glass_iceflower_09.jpg", "codes": [{"code": "N045", "conf": 0.56}], "all_texts": [[0.58, ".4"], [0.56, "N045"]]}
+{"file": "glass/glass_iceflower_10.jpg", "codes": [], "all_texts": [[0.18, "[777"], [0.17, "NE7T7"]]}
+{"file": "glass/glass_iceflower_10.jpg", "codes": [], "all_texts": [[0.18, "[777"], [0.17, "NE7T7"]]}
+{"file": "glass/glass_iceflower_11.jpg", "codes": [], "all_texts": [[0.06, "N111"], [0.28, "NF111"]]}
+{"file": "glass/glass_iceflower_11.jpg", "codes": [], "all_texts": [[0.06, "N111"], [0.28, "NF111"]]}
+{"file": "glass/glass_iceflower_12.jpg", "codes": [], "all_texts": [[0.26, "皿365"], [0.29, "NF3SS"]]}
+{"file": "glass/glass_iceflower_12.jpg", "codes": [], "all_texts": [[0.26, "皿365"], [0.29, "NF3SS"]]}
+{"file": "glass/glass_iceflower_13.jpg", "codes": [], "all_texts": [[0.03, "-366"], [0.18, "NF3GR"]]}
+{"file": "glass/glass_iceflower_13.jpg", "codes": [], "all_texts": [[0.03, "-366"], [0.18, "NF3GR"]]}
+{"file": "glass/glass_icejade_01.jpg", "codes": [], "all_texts": [[0.74, "MOSAIC"]]}
+{"file": "glass/glass_icejade_01.jpg", "codes": [], "all_texts": [[0.74, "MOSAIC"]]}
+{"file": "glass/glass_icejade_02.jpg", "codes": [{"code": "327", "conf": 1.0}, {"code": "HJ1507", "conf": 0.83}, {"code": "HJ1518", "conf": 0.81}, {"code": "HJ1516", "conf": 0.44}], "all_texts": [[1.0, "327"], [0.44, "HJ1 516"], [0.43, "4J1 515"], [0.81, "HJ1 518"], [0.83, "HJ1507"]]}
+{"file": "glass/glass_icejade_02.jpg", "codes": [{"code": "327", "conf": 1.0}, {"code": "HJ1507", "conf": 0.83}, {"code": "HJ1518", "conf": 0.81}, {"code": "HJ1516", "conf": 0.44}], "all_texts": [[1.0, "327"], [0.44, "HJ1 516"], [0.43, "4J1 515"], [0.81, "HJ1 518"], [0.83, "HJ1507"]]}
+{"file": "glass/glass_icejade_03.jpg", "codes": [{"code": "327", "conf": 1.0}, {"code": "HJ1501", "conf": 0.85}, {"code": "HJ1517", "conf": 0.7}, {"code": "HJ1520", "conf": 0.69}], "all_texts": [[1.0, "327"], [0.7, "HJ1517"], [0.47, "4J1519"], [0.69, "HJ1520"], [0.85, "HJ1501"]]}
+{"file": "glass/glass_icejade_03.jpg", "codes": [{"code": "327", "conf": 1.0}, {"code": "HJ1501", "conf": 0.85}, {"code": "HJ1517", "conf": 0.7}, {"code": "HJ1520", "conf": 0.69}], "all_texts": [[1.0, "327"], [0.7, "HJ1517"], [0.47, "4J1519"], [0.69, "HJ1520"], [0.85, "HJ1501"]]}
+{"file": "glass/glass_icejade_04.jpg", "codes": [{"code": "HJ1516", "conf": 0.96}, {"code": "HJ1523", "conf": 0.92}, {"code": "HJ1514", "conf": 0.91}, {"code": "HJ1517", "conf": 0.9}], "all_texts": [[0.87, "HJ1501"], [0.73, "HJ1 502"], [0.55, "HJ1503"], [0.78, "HJ1504"], [0.74, "HJ1 505"], [0.77, "HJ1 506"], [0.92, "HJ1523"], [0.89, "HJ1524"]]}
+{"file": "glass/glass_icejade_04.jpg", "codes": [{"code": "HJ1516", "conf": 0.96}, {"code": "HJ1523", "conf": 0.92}, {"code": "HJ1514", "conf": 0.91}, {"code": "HJ1517", "conf": 0.9}], "all_texts": [[0.87, "HJ1501"], [0.73, "HJ1 502"], [0.55, "HJ1503"], [0.78, "HJ1504"], [0.74, "HJ1 505"], [0.77, "HJ1 506"], [0.92, "HJ1523"], [0.89, "HJ1524"]]}
+{"file": "glass/glass_icejade_05.jpg", "codes": [{"code": "HJ1020", "conf": 0.95}, {"code": "HJ1008", "conf": 0.9}, {"code": "HJ1017", "conf": 0.9}, {"code": "HJ1007", "conf": 0.75}], "all_texts": [[0.75, "HJ1007"], [0.9, "HJ1008"], [0.55, "HJ100G"], [0.52, "HJ1013"], [0.66, "4J1016"], [0.9, "HJ1017"], [0.6, "HJ1 018"], [0.59, "HJ1019"]]}
+{"file": "glass/glass_icejade_05.jpg", "codes": [{"code": "HJ1020", "conf": 0.95}, {"code": "HJ1008", "conf": 0.9}, {"code": "HJ1017", "conf": 0.9}, {"code": "HJ1007", "conf": 0.75}], "all_texts": [[0.75, "HJ1007"], [0.9, "HJ1008"], [0.55, "HJ100G"], [0.52, "HJ1013"], [0.66, "4J1016"], [0.9, "HJ1017"], [0.6, "HJ1 018"], [0.59, "HJ1019"]]}
+{"file": "glass/glass_nosand_rainbow_01.jpg", "codes": [], "all_texts": [[0.38, "CHOO1"], [0.6, "|"]]}
+{"file": "glass/glass_nosand_rainbow_01.jpg", "codes": [], "all_texts": [[0.38, "CHOO1"], [0.6, "|"]]}
+{"file": "glass/glass_nosand_rainbow_02.jpg", "codes": [{"code": "CH002", "conf": 0.92}], "all_texts": [[0.92, "CH002"], [0.04, "1+90"], [0.05, "(3;)"], [0.22, "Tgn"], [0.09, "(254}"], [0.14, "「254〉"], [0.18, "13'"], [0.37, "(!')"]]}
+{"file": "glass/glass_nosand_rainbow_02.jpg", "codes": [{"code": "CH002", "conf": 0.92}], "all_texts": [[0.92, "CH002"], [0.04, "1+90"], [0.05, "(3;)"], [0.22, "Tgn"], [0.09, "(254}"], [0.14, "「254〉"], [0.18, "13'"], [0.37, "(!')"]]}
+{"file": "glass/glass_nosand_rainbow_03.jpg", "codes": [{"code": "CH003", "conf": 0.99}], "all_texts": [[0.99, "CH003"], [0.41, "1"], [0.01, "(3A1"], [0.01, "41,4}"]]}
+{"file": "glass/glass_nosand_rainbow_03.jpg", "codes": [{"code": "CH003", "conf": 0.99}], "all_texts": [[0.99, "CH003"], [0.41, "1"], [0.01, "(3A1"], [0.01, "41,4}"]]}
+{"file": "glass/glass_nosand_rainbow_04.jpg", "codes": [{"code": "CHO04", "conf": 0.57}], "all_texts": [[0.57, "CHO04"], [0.01, "7U"], [0.31, "U"], [0.15, "C44S"], [0.13, "11"], [0.19, "AJ0s"], [0.04, "1I1"], [0.11, "110"]]}
+{"file": "glass/glass_nosand_rainbow_04.jpg", "codes": [{"code": "CHO04", "conf": 0.57}], "all_texts": [[0.57, "CHO04"], [0.01, "7U"], [0.31, "U"], [0.15, "C44S"], [0.13, "11"], [0.19, "AJ0s"], [0.04, "1I1"], [0.11, "110"]]}
+{"file": "glass/glass_nosand_rainbow_05.jpg", "codes": [{"code": "F30", "conf": 0.93}, {"code": "00", "conf": 0.45}], "all_texts": [[0.8, "CHOO5"], [0.31, "AOs"], [0.01, "7"], [0.4, "0"], [0.14, "(3}]"], [0.23, "4534"], [0.45, "00"], [0.93, "F30"]]}
+{"file": "glass/glass_nosand_rainbow_05.jpg", "codes": [{"code": "F30", "conf": 0.93}, {"code": "00", "conf": 0.45}], "all_texts": [[0.8, "CHOO5"], [0.31, "AOs"], [0.01, "7"], [0.4, "0"], [0.14, "(3}]"], [0.23, "4534"], [0.45, "00"], [0.93, "F30"]]}
+{"file": "glass/glass_nosand_rainbow_06.jpg", "codes": [], "all_texts": [[0.77, "CHOOG"], [0.01, "AYUL"], [0.31, "(30」"], [0.03, "14!"], [0.01, "0114-"], [0.19, "(3091"], [0.22, "40"], [0.24, "(o'"]]}
+{"file": "glass/glass_nosand_rainbow_06.jpg", "codes": [], "all_texts": [[0.77, "CHOOG"], [0.01, "AYUL"], [0.31, "(30」"], [0.03, "14!"], [0.01, "0114-"], [0.19, "(3091"], [0.22, "40"], [0.24, "(o'"]]}
+{"file": "glass/glass_nosand_rainbow_07.jpg", "codes": [{"code": "CH007", "conf": 0.8}, {"code": "1085", "conf": 0.46}, {"code": "135", "conf": 0.32}], "all_texts": [[0.8, "CH007"], [0.32, "135"], [0.41, "10;"], [0.46, "1085"], [0.21, "(105)"], [0.41, "Cs!"], [0.73, "F0"], [0.13, "15"]]}
+{"file": "glass/glass_nosand_rainbow_07.jpg", "codes": [{"code": "CH007", "conf": 0.8}, {"code": "1085", "conf": 0.46}, {"code": "135", "conf": 0.32}], "all_texts": [[0.8, "CH007"], [0.32, "135"], [0.41, "10;"], [0.46, "1085"], [0.21, "(105)"], [0.41, "Cs!"], [0.73, "F0"], [0.13, "15"]]}
+{"file": "glass/glass_nosand_rainbow_08.jpg", "codes": [], "all_texts": [[0.36, "CHOO8"], [0.02, "T77"], [0.26, "(304!"], [0.03, "Cn1 -"], [0.01, "OJ"], [0.18, "42"], [0.21, "(90*1"], [0.14, "J"]]}
+{"file": "glass/glass_nosand_rainbow_08.jpg", "codes": [], "all_texts": [[0.36, "CHOO8"], [0.02, "T77"], [0.26, "(304!"], [0.03, "Cn1 -"], [0.01, "OJ"], [0.18, "42"], [0.21, "(90*1"], [0.14, "J"]]}
+{"file": "glass/glass_nosand_rainbow_09.jpg", "codes": [], "all_texts": [[0.53, "CHOOg"], [0.51, "4095(3051"], [0.54, "4085 (30931"], [0.53, "4535(3091"], [0.47, "F130(1091"]]}
+{"file": "glass/glass_nosand_rainbow_09.jpg", "codes": [], "all_texts": [[0.53, "CHOOg"], [0.51, "4095(3051"], [0.54, "4085 (30931"], [0.53, "4535(3091"], [0.47, "F130(1091"]]}
+{"file": "glass/glass_nosand_rainbow_10.jpg", "codes": [], "all_texts": [[0.29, "CHOIO"], [0.15, "053"], [0.03, "4411"], [0.03, "7;11 C"], [0.26, "CIOs"], [0.12, "Fn"], [0.29, "|"], [0.03, "TOI"]]}
+{"file": "glass/glass_nosand_rainbow_10.jpg", "codes": [], "all_texts": [[0.29, "CHOIO"], [0.15, "053"], [0.03, "4411"], [0.03, "7;11 C"], [0.26, "CIOs"], [0.12, "Fn"], [0.29, "|"], [0.03, "TOI"]]}
+{"file": "glass/glass_nosand_rainbow_11.jpg", "codes": [{"code": "CH011", "conf": 0.93}, {"code": "855", "conf": 0.36}], "all_texts": [[0.93, "CH011"], [0.27, "几353"], [0.07, "1|。"], [0.36, "855"], [0.08, "(155)"], [0.01, "[h? !"], [0.22, "' LA"]]}
+{"file": "glass/glass_nosand_rainbow_11.jpg", "codes": [{"code": "CH011", "conf": 0.93}, {"code": "855", "conf": 0.36}], "all_texts": [[0.93, "CH011"], [0.27, "几353"], [0.07, "1|。"], [0.36, "855"], [0.08, "(155)"], [0.01, "[h? !"], [0.22, "' LA"]]}
+{"file": "glass/glass_nosand_rainbow_12.jpg", "codes": [{"code": "CH012", "conf": 0.93}], "all_texts": [[0.93, "CH012"], [0.29, "TObs"], [0.16, "130"], [0.48, "C0s"], [0.73, "(30)"], [0.16, "90"], [0.13, "440"], [0.01, "C17"]]}
+{"file": "glass/glass_nosand_rainbow_12.jpg", "codes": [{"code": "CH012", "conf": 0.93}], "all_texts": [[0.93, "CH012"], [0.29, "TObs"], [0.16, "130"], [0.48, "C0s"], [0.73, "(30)"], [0.16, "90"], [0.13, "440"], [0.01, "C17"]]}
+{"file": "glass/glass_nosand_rainbow_13.jpg", "codes": [{"code": "CH013", "conf": 1.0}], "all_texts": [[1.0, "CH013"], [0.07, "TOCS"], [0.22, "(90,1"], [0.1, "Fod"], [0.15, "1174!"]]}
+{"file": "glass/glass_nosand_rainbow_13.jpg", "codes": [{"code": "CH013", "conf": 1.0}], "all_texts": [[1.0, "CH013"], [0.07, "TOCS"], [0.22, "(90,1"], [0.1, "Fod"], [0.15, "1174!"]]}
+{"file": "glass/glass_nosand_rainbow_14.jpg", "codes": [], "all_texts": [[0.24, "CHolk"]]}
+{"file": "glass/glass_nosand_rainbow_14.jpg", "codes": [], "all_texts": [[0.24, "CHolk"]]}
+{"file": "glass/glass_shimmer_01.jpg", "codes": [], "all_texts": [[0.99, "36F130"]]}
+{"file": "glass/glass_shimmer_01.jpg", "codes": [], "all_texts": [[0.99, "36F130"]]}
+{"file": "glass/glass_shimmer_02.jpg", "codes": [{"code": "F130", "conf": 0.87}], "all_texts": [[0.87, "F130"]]}
+{"file": "glass/glass_shimmer_02.jpg", "codes": [{"code": "F130", "conf": 0.87}], "all_texts": [[0.87, "F130"]]}
+{"file": "glass/glass_shimmer_03.jpg", "codes": [{"code": "F730", "conf": 0.89}], "all_texts": [[0.89, "F730"]]}
+{"file": "glass/glass_shimmer_03.jpg", "codes": [{"code": "F730", "conf": 0.89}], "all_texts": [[0.89, "F730"]]}
+{"file": "glass/glass_shimmer_07.jpg", "codes": [], "all_texts": [[0.26, "77"]]}
+{"file": "glass/glass_shimmer_07.jpg", "codes": [], "all_texts": [[0.26, "77"]]}
+{"file": "glass/glass_shimmer_13.jpg", "codes": [{"code": "FE078", "conf": 0.95}], "all_texts": [[0.95, "FE078"]]}
+{"file": "glass/glass_shimmer_13.jpg", "codes": [{"code": "FE078", "conf": 0.95}], "all_texts": [[0.95, "FE078"]]}
+{"file": "glass/glass_shimmer_14.jpg", "codes": [], "all_texts": [[0.25, "SE07g"]]}
+{"file": "glass/glass_shimmer_14.jpg", "codes": [], "all_texts": [[0.25, "SE07g"]]}
+{"file": "handcut/handcut_08.jpg", "codes": [], "all_texts": [[1.0, "公众号"], [0.67, "yalding"]]}
+{"file": "handcut/handcut_08.jpg", "codes": [], "all_texts": [[1.0, "公众号"], [0.67, "yalding"]]}
+{"file": "handcut/handcut_16.jpg", "codes": [], "all_texts": [[0.0, "4Ct1ANII"], [0.09, "CLN"], [0.9, "VOVI"], [0.07, "C("]]}
+{"file": "handcut/handcut_16.jpg", "codes": [], "all_texts": [[0.0, "4Ct1ANII"], [0.09, "CLN"], [0.9, "VOVI"], [0.07, "C("]]}
+{"file": "pool-patterns/pool_2026_01.jpg", "codes": [], "all_texts": [[0.96, "马赛克泳池拼图"], [0.31, "The focton oi mosoic potermghondwork mosaic"], [0.93, "14年泳池马赛克拼图工程设计制作经验"], [1.0, "2026/02"], [0.51, "凭借者超前的设计构思_"], [0.67, "合理的预算报价"], [0.41, "精良的制工艺"], [0.8, "优质的全程服务"]]}
+{"file": "pool-patterns/pool_2026_01.jpg", "codes": [], "all_texts": [[0.96, "马赛克泳池拼图"], [0.31, "The focton oi mosoic potermghondwork mosaic"], [0.93, "14年泳池马赛克拼图工程设计制作经验"], [1.0, "2026/02"], [0.51, "凭借者超前的设计构思_"], [0.67, "合理的预算报价"], [0.41, "精良的制工艺"], [0.8, "优质的全程服务"]]}
+{"file": "pool-patterns/pool_2026_02.jpg", "codes": [], "all_texts": [[0.75, "Introduction"], [0.89, "我们专注于马赛克的研发。生产"], [0.95, "产品广泛用于室内外泳池"], [0.63, "园林景观。 KTV 酒店等空间的装饰。公司拥有专业的马赛克设"], [0.19, "计师团队,能独立完成大型工地的马赛克艺术化设计方案。拥用成熟的生产保障体系。能确保质量达标。交货准肘。"], [0.65, "IoCus On R"], [0.04, "0and oroducto olmosalc. Poducts are widely used inIdcor ana oufdoc swimm ng pCol. garden lanascope KTY Holel ana other spocC decorotlon Ihe compony"], [0.11, "mCs"]]}
+{"file": "pool-patterns/pool_2026_02.jpg", "codes": [], "all_texts": [[0.75, "Introduction"], [0.89, "我们专注于马赛克的研发。生产"], [0.95, "产品广泛用于室内外泳池"], [0.63, "园林景观。 KTV 酒店等空间的装饰。公司拥有专业的马赛克设"], [0.19, "计师团队,能独立完成大型工地的马赛克艺术化设计方案。拥用成熟的生产保障体系。能确保质量达标。交货准肘。"], [0.65, "IoCus On R"], [0.04, "0and oroducto olmosalc. Poducts are widely used inIdcor ana oufdoc swimm ng pCol. garden lanascope KTY Holel ana other spocC decorotlon Ihe compony"], [0.11, "mCs"]]}
+{"file": "pool-patterns/pool_2026_03.jpg", "codes": [], "all_texts": [[0.82, "PART ONE_"], [0.95, "成都地铁理工学院站"], [0.9, "成都地铁理工学院站"], [0.62, "地处\"马门溪龙\"遗迹圈中."], [0.25, "整幄壁画以马赛"], [0.87, "克手工镶嵌的独特工艺和马赛克本身具有的梦幻般的质感再现了"], [0.79, "\"马门溪龙\"在晚侏罗纪的生活场所景。"], [0.18, "Chengdu Melro Institute ofechnolog; stoiior"]]}
+{"file": "pool-patterns/pool_2026_03.jpg", "codes": [], "all_texts": [[0.82, "PART ONE_"], [0.95, "成都地铁理工学院站"], [0.9, "成都地铁理工学院站"], [0.62, "地处\"马门溪龙\"遗迹圈中."], [0.25, "整幄壁画以马赛"], [0.87, "克手工镶嵌的独特工艺和马赛克本身具有的梦幻般的质感再现了"], [0.79, "\"马门溪龙\"在晚侏罗纪的生活场所景。"], [0.18, "Chengdu Melro Institute ofechnolog; stoiior"]]}
+{"file": "pool-patterns/pool_2026_04.jpg", "codes": [], "all_texts": [[0.91, "生产品控"], [0.64, "壁画生产过程中"], [0.67, "|对马六溪龙的成画效果反复调整细节"], [0.46, "充分与设计院等相关方沟逼细节"]]}
+{"file": "pool-patterns/pool_2026_04.jpg", "codes": [], "all_texts": [[0.91, "生产品控"], [0.64, "壁画生产过程中"], [0.67, "|对马六溪龙的成画效果反复调整细节"], [0.46, "充分与设计院等相关方沟逼细节"]]}
+{"file": "pool-patterns/pool_2026_05.jpg", "codes": [], "all_texts": [[0.88, "成品效果照片"], [0.48, "车间拍摄 )"], [0.27, "成品完成后将进行整体效果评估和调整"], [0.91, "经设计院确认后"], [0.46, "依据施工要求分切成易以施工的尺寸"], [0.88, "整体打包成安全木箱"]]}
+{"file": "pool-patterns/pool_2026_05.jpg", "codes": [], "all_texts": [[0.88, "成品效果照片"], [0.48, "车间拍摄 )"], [0.27, "成品完成后将进行整体效果评估和调整"], [0.91, "经设计院确认后"], [0.46, "依据施工要求分切成易以施工的尺寸"], [0.88, "整体打包成安全木箱"]]}
+{"file": "pool-patterns/pool_2026_06.jpg", "codes": [], "all_texts": [[0.23, "凭借着对画面细节的精雕细作_"], [0.63, "成都地铁理工学院站点壁画成为年轻人爱拍照的\"网红打卡地"], [0.04, "WIIH THE ADVANCLD DESISN CONCEPTIO, REASONABLE BUDGEIGUOIAIION, EXCELLENI CONSTRUCTICN TECHNOLOGYHIGHQUALITY WHCLL COURSE SERHICE AND SINCCREL' FOR"], [0.02, "EVER; CUSIOMER, WNE CANCUSICNIZE THE NEH, LLESANTANC COMIORTABL HOME UFE AND CULIURALSPACEFOR EVL?Y CLSIOMER。"]]}
+{"file": "pool-patterns/pool_2026_06.jpg", "codes": [], "all_texts": [[0.23, "凭借着对画面细节的精雕细作_"], [0.63, "成都地铁理工学院站点壁画成为年轻人爱拍照的\"网红打卡地"], [0.04, "WIIH THE ADVANCLD DESISN CONCEPTIO, REASONABLE BUDGEIGUOIAIION, EXCELLENI CONSTRUCTICN TECHNOLOGYHIGHQUALITY WHCLL COURSE SERHICE AND SINCCREL' FOR"], [0.02, "EVER; CUSIOMER, WNE CANCUSICNIZE THE NEH, LLESANTANC COMIORTABL HOME UFE AND CULIURALSPACEFOR EVL?Y CLSIOMER。"]]}
+{"file": "pool-patterns/pool_2026_07.jpg", "codes": [], "all_texts": [[0.75, "PART TWO"], [0.98, "泳池马赛克拼图"], [0.93, "拥有专业设计服务团队"], [0.82, "能专业应对各种泳池方案的设计"], [0.99, "让泳"], [0.81, "池马赛克创意方案快速落地。十四年的泳池拼图设计制作经验;"], [0.38, "质量稳定。交期准时。让工程交付更顺畅。"], [0.09, "ITCS Oorofosorol"]]}
+{"file": "pool-patterns/pool_2026_07.jpg", "codes": [], "all_texts": [[0.75, "PART TWO"], [0.98, "泳池马赛克拼图"], [0.93, "拥有专业设计服务团队"], [0.82, "能专业应对各种泳池方案的设计"], [0.99, "让泳"], [0.81, "池马赛克创意方案快速落地。十四年的泳池拼图设计制作经验;"], [0.38, "质量稳定。交期准时。让工程交付更顺畅。"], [0.09, "ITCS Oorofosorol"]]}
+{"file": "pool-patterns/pool_2026_08.jpg", "codes": [], "all_texts": [[0.97, "PROFESSIONAL"], [0.97, "MOSAIC"], [0.84, "专业泳池马赛克拼图厂家"], [0.31, "追求高品质的泳池马赛克方案设计"], [0.69, "T叶莲品牌"], [0.63, "直以来持续为国内外知"], [0.21, "名房地产品牌提供艺术马赛克的交付方案和产品。目前主要服务范圊囊括"], [0.97, "泳池砖"]]}
+{"file": "pool-patterns/pool_2026_08.jpg", "codes": [], "all_texts": [[0.97, "PROFESSIONAL"], [0.97, "MOSAIC"], [0.84, "专业泳池马赛克拼图厂家"], [0.31, "追求高品质的泳池马赛克方案设计"], [0.69, "T叶莲品牌"], [0.63, "直以来持续为国内外知"], [0.21, "名房地产品牌提供艺术马赛克的交付方案和产品。目前主要服务范圊囊括"], [0.97, "泳池砖"]]}
+{"file": "pool-patterns/pool_2026_09.jpg", "codes": [], "all_texts": [[0.47, "专  业  设 计 能力"], [0.59, "凭借着专业马赛克设计团队。我们能承担起泳池马赛克拼图的方案全创作。来图设计等"], [0.04, "WIRC OIOOSIONOMOOIC Uosgno"], [0.21, "Con undertcke"], [0.26, "Ihe whole sckeme"], [0.0, "~uhOI UIr"], [0.1, "cesgn cf swmming Pccl mosolic"], [0.06, "SUUUGUGUC"]]}
+{"file": "pool-patterns/pool_2026_09.jpg", "codes": [], "all_texts": [[0.47, "专  业  设 计 能力"], [0.59, "凭借着专业马赛克设计团队。我们能承担起泳池马赛克拼图的方案全创作。来图设计等"], [0.04, "WIRC OIOOSIONOMOOIC Uosgno"], [0.21, "Con undertcke"], [0.26, "Ihe whole sckeme"], [0.0, "~uhOI UIr"], [0.1, "cesgn cf swmming Pccl mosolic"], [0.06, "SUUUGUGUC"]]}
+{"file": "pool-patterns/pool_2026_10.jpg", "codes": [], "all_texts": [[0.79, "PART THREE"], [0.91, "泳池马赛克拼图图册"], [0.84, "丰富而新颖的马赛克拼图图样满足不同泳"], [0.94, "池工程的设计要求。我们还提供来图定制"], [1.0, "设计"], [0.95, "可以根据设计方的要求对泳池图案"], [0.98, "进行全案设计。"]]}
+{"file": "pool-patterns/pool_2026_10.jpg", "codes": [], "all_texts": [[0.79, "PART THREE"], [0.91, "泳池马赛克拼图图册"], [0.84, "丰富而新颖的马赛克拼图图样满足不同泳"], [0.94, "池工程的设计要求。我们还提供来图定制"], [1.0, "设计"], [0.95, "可以根据设计方的要求对泳池图案"], [0.98, "进行全案设计。"]]}
+{"file": "pool-patterns/pool_2026_11.jpg", "codes": [], "all_texts": [[0.72, "Pool Art Mosaic Patten"], [0.95, "泳池创意拼图"], [0.21, "我们拥有丰富的图库"], [0.56, "以便泳池图案设计更加便捷。除此之外,我们还能根据"], [0.52, "设计方的要求。遵从设计意图对泳池图案迸行全案设计。"]]}
+{"file": "pool-patterns/pool_2026_11.jpg", "codes": [], "all_texts": [[0.72, "Pool Art Mosaic Patten"], [0.95, "泳池创意拼图"], [0.21, "我们拥有丰富的图库"], [0.56, "以便泳池图案设计更加便捷。除此之外,我们还能根据"], [0.52, "设计方的要求。遵从设计意图对泳池图案迸行全案设计。"]]}
+{"file": "pool-patterns/pool_2026_12.jpg", "codes": [], "all_texts": [[0.96, "泳池拼图产品"], [0.69, "Pool Art Mosaic Patten"], [0.5, "除了丰富的图库"], [0.5, "我们还能根据设计方的要求,对泳池图案迸行全案设计"]]}
+{"file": "pool-patterns/pool_2026_12.jpg", "codes": [], "all_texts": [[0.96, "泳池拼图产品"], [0.69, "Pool Art Mosaic Patten"], [0.5, "除了丰富的图库"], [0.5, "我们还能根据设计方的要求,对泳池图案迸行全案设计"]]}
+{"file": "pool-patterns/pool_2026_13.jpg", "codes": [], "all_texts": [[0.97, "泳池拼图产品"], [0.6, "Pool Art Mosaic Patten"], [0.17, "除了丰宦的图库"], [0.78, "我们还能根据设计方的要求"], [0.51, "对泳池图案进行全案设计。"]]}
+{"file": "pool-patterns/pool_2026_13.jpg", "codes": [], "all_texts": [[0.97, "泳池拼图产品"], [0.6, "Pool Art Mosaic Patten"], [0.17, "除了丰宦的图库"], [0.78, "我们还能根据设计方的要求"], [0.51, "对泳池图案进行全案设计。"]]}
+{"file": "pool-patterns/pool_2026_14.jpg", "codes": [], "all_texts": [[0.97, "泳池拼图产品"], [0.79, "Pool Art Mosaic Patten"], [0.42, "除了丰富的图库"], [0.79, "我们还能裉据设计方的要求"], [0.36, "对泳池图案迸行全案设计"]]}
+{"file": "pool-patterns/pool_2026_14.jpg", "codes": [], "all_texts": [[0.97, "泳池拼图产品"], [0.79, "Pool Art Mosaic Patten"], [0.42, "除了丰富的图库"], [0.79, "我们还能裉据设计方的要求"], [0.36, "对泳池图案迸行全案设计"]]}
+{"file": "pool-patterns/pool_2026_15.jpg", "codes": [], "all_texts": [[0.98, "泳池拼图产品"], [0.79, "Pool Art Mosaic Patten"], [0.43, "除了丰宦的图库"], [0.77, "我们还能裉据设计方的要求,"], [0.82, "对泳池图案迸行全案设计。"]]}
+{"file": "pool-patterns/pool_2026_15.jpg", "codes": [], "all_texts": [[0.98, "泳池拼图产品"], [0.79, "Pool Art Mosaic Patten"], [0.43, "除了丰宦的图库"], [0.77, "我们还能裉据设计方的要求,"], [0.82, "对泳池图案迸行全案设计。"]]}
+{"file": "pool-patterns/pool_2026_16.jpg", "codes": [], "all_texts": [[0.97, "泳池拼图产品"], [0.76, "Pool Art Mosaic Patten"], [0.17, "除了丰宦的图库"], [0.78, "我们还能根据设计方的要求"], [0.51, "对泳池图案进行全案设计。"]]}
+{"file": "pool-patterns/pool_2026_16.jpg", "codes": [], "all_texts": [[0.97, "泳池拼图产品"], [0.76, "Pool Art Mosaic Patten"], [0.17, "除了丰宦的图库"], [0.78, "我们还能根据设计方的要求"], [0.51, "对泳池图案进行全案设计。"]]}
